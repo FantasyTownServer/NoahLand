@@ -11,5 +11,4 @@ goto c
 :end
 :c
 git push
-pause
 :end
