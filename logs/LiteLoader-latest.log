@@ -25,3 +25,4 @@
 [2023-03-18 21:12:25 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
 [2023-03-18 21:12:25 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
 [2023-03-18 21:12:25 INFO][Server] To enable Server Telemetry, add the line 'emit-server-telemetry=true' to the server.properties file in the bds directory
+[2023-03-20 18:04:17 INFO][Server] Server stop requested.
