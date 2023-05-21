@@ -1,0 +1,7 @@
+{
+    "banip": 1,
+    "HidePassMessage": 0,
+    "KickByCloudMsg": "正在断开连接",
+    "KickByLocalMsg": "  您已被服务器封禁。\n\n解封时间: %ENDTIME%\n封禁原因: %REASON%",
+    "BlackList": []
+}

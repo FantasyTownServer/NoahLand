@@ -1,0 +1,38 @@
+{
+    "recycles": {
+        "describe": "",
+        "isopshop": false,
+        "ownerlang": "",
+        "ownername": "",
+        "recycleamount": 0,
+        "recyclecost": 0,
+        "recycleitems": null,
+        "shopitemicon": "",
+        "shopname": "",
+        "shopstate": null
+    },
+    "sell": {
+        "biditems": null,
+        "describe": "",
+        "isopshop": false,
+        "items": [
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:elytra\",\"WasPickedUp\":0b,\"tag\":{\"Damage\":148}}",
+                "price": 600,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 0,
+                "shopitemname": "鞘翅 432",
+                "shopitemtag": "elytra"
+            }
+        ],
+        "ownerlang": "zh_CN",
+        "ownername": "LodgedSphinx459",
+        "salesvolume": 600,
+        "sellcount": 1,
+        "shopdiscount": null,
+        "shopitemicon": "",
+        "shopname": "LodgedSphinx459's shop",
+        "shopstate": null
+    }
+}

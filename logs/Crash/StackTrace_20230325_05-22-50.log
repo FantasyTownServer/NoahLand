@@ -1,0 +1,98 @@
+[Crashed!]
+-- Unhandled Exception in -> LiteLoader.dll
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function CommandOrigin::getPlayer at 0x7FFCFF26B010  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCFF26B016  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function onPostInit at 0x7FFD1A1485C0  [IVshop.dll<0.0.0.0 DEBUG>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD1A17D7DF  [IVshop.dll<0.0.0.0 DEBUG>]
+[StackTrace] Function CommandRegistry::createCommand at 0x7FF7FC6D18B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6D1B5D  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::parse<std::unique_ptr<Command,std::default_delete<Command> > > at 0x7FF7FC6BF520  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6BF565  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::createCommand at 0x7FF7FC6D18B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6D1B07  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::parseEnum<CommandChainedSubcommand,void> at 0x7FF7FC6C0C30  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6C0E81  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::createCommand at 0x7FF7FC6D18B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6D1B07  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::parseEnum<CommandChainedSubcommand,void> at 0x7FF7FC6C0C30  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6C0E81  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::createCommand at 0x7FF7FC6D18B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6D1B07  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandRegistry::Parser::createCommand at 0x7FF7FC6D1BA0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6D1BE4  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function BaseCommandBlock::compile at 0x7FF7FD5F0090  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD5F0140  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function DynamicCommandInstance::initCommandBuilder at 0x7FFCFF2756C0  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCFF27579A  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function BaseCommandBlock::_performCommand at 0x7FF7FD5EF590  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD5EFCEF  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Translation::loadImpl at 0x7FFCFF21B290  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCFF21E912  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function BaseCommandBlock::performCommand at 0x7FF7FD5F08E0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD5F0941  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandBlockActor::performCommand at 0x7FF7FD60D1D0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD60D211  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandBlock::_executeChain at 0x7FF7FD35C070  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD35C1CB  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function CommandBlock::execute at 0x7FF7FD35C760  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD35C813  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function DeferredCommandBlockCommand::execute at 0x7FF7FC7579B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC7579F6  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function MinecraftCommands::tick at 0x7FF7FC6A5700  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6A5793  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerLevel::_subTick at 0x7FF7FC728A80  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC728B3B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Schedule::nextTick at 0x7FFCFF269CD0  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCFF269EDA  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function Level::tick at 0x7FF7FD18C1F0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD18C23F  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function GameSession::tick at 0x7FF7FD089450  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD08948B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Minecraft::update at 0x7FF7FCE6D450  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCE6DC0A  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerInstance::_update at 0x7FF7FC6ABF10  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6AC002  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function <lambda_f2e707221d48fb1510572c959b70280b>::operator() at 0x7FF7FC6AA2D0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6AA797  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function std::thread::_Invoke<std::tuple<<lambda_f2e707221d48fb1510572c959b70280b> >,0> at 0x7FF7FC6A6650  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6A665E  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function recalloc at 0x7FFD2BC76AF0  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD2BC76B4C  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function BaseThreadInitThunk at 0x7FFD4B3F4EC0  [KERNEL32.DLL<10.0.20348.469>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD4B3F4ED0  [KERNEL32.DLL<10.0.20348.469>]
+[StackTrace] Function RtlUserThreadStart at 0x7FFD518FE3E0  [ntdll.dll<6.2.20348.1129>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD518FE40B  [ntdll.dll<6.2.20348.1129>]

@@ -8,10 +8,6 @@
             "autoInstallPath": "plugins/AddonsHelper",
             "enabled": true
         },
-        "AntiGive": {
-            "command": "kick {player}",
-            "enabled": true
-        },
         "CheckRunningBDS": {
             "enabled": true
         },

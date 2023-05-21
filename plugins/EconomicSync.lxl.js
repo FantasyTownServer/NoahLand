@@ -1,24 +1,21 @@
-//LiteXLoader Dev Helper
-/// <reference path="c:\Users\yqs11\.vscode\extensions\moxicat.lxldevhelper-0.1.4/Library/JS/Api.js" /> 
+//LiteLoaderScript Dev Helper
+/// <reference path="c:\Users\yq\Desktop\BAK\LLSE-Aids-Library/dts/HelperLib-master/src/index.d.ts"/> 
 
-
+let _VER = [1,1,0]
 
 // 文件名：EconomicSync.lxl.js
-// 文件功能：LXL平台下经济自动同步工具
+// 文件功能：LLSE平台下经济自动同步工具
 // 作者：yqs112358
 // 首发平台：MineBBS
 
-var _VER = '1.0.1'
-lxl.requireVersion(0,5,5);
-
-//Helper
-String.prototype.replaceAll=function(f,t)
+// Helper
+String.prototype.replaceAll = function(f,t)
 {
-    var reg=new RegExp(f,"g");
+    let reg = new RegExp(f,"g");
     return this.replace(reg,t); 
 }
 
-var conf = new IniConfigFile("./plugins/EconomicSync/config.ini", "");
+let conf = new IniConfigFile("./plugins/EconomicSync/config.ini", "");
 logger.setTitle("EconomicSync");
 
 function CheckScoreboard()
@@ -75,24 +72,26 @@ mc.listen("onScoreChanged",function(pl,num,name,displayName)
         {
             skip = true;
             money.add(pl.xuid, num-old);
+            logger.debug(`Score ${displayName} change: ${pl.realName} add ${num-old}`);
         }
         else if(old > num)
         {
             skip = true;
             money.reduce(pl.xuid, old-num);
+            logger.debug(`Score ${displayName} change: ${pl.realName} reduce ${old-num}`);
         }
         ChangeMessage(pl,num);
     }
 });
 
-function LLMoneyChange(xuid,newValue)
+function LLMoneyChange(xuid, newValue)
 {
     let pl = mc.getPlayer(xuid);
     if(pl != null)
     {
         //在线
         skip = true;
-        pl.setScore(conf.getStr("Main","ScoreboardName","money"),newValue);
+        pl.setScore(conf.getStr("Main","ScoreboardName","money"), newValue);
         ChangeMessage(pl,newValue);
     }
     else
@@ -102,7 +101,7 @@ function LLMoneyChange(xuid,newValue)
             changed = "[]";
 
         let arr = JSON.parse(changed);
-        let index =  arr.length == 0 ? -1 : arr.indexOf(pl.xuid);
+        let index =  arr.length == 0 ? -1 : arr.indexOf(xuid);
         if(index == -1)
         {
             //离线修改
@@ -119,9 +118,11 @@ mc.listen("onMoneyAdd",function(xuid_para,num_para)
         skip = false;
         return;
     }
-    (function(xuid,num,old) {
-        LLMoneyChange(xuid, old + num);
-    })(xuid_para, num_para, money.get(xuid_para));
+    
+    (function(xuid, num, current) {
+        logger.debug("LLMoney change: " + data.xuid2name(xuid) + ` add ${num}`);
+        LLMoneyChange(xuid, current);
+    })(xuid_para, num_para, money.get(xuid_para));      // 注意！！此时get的money已经是修改过的了
 });
 
 mc.listen("onMoneyReduce",function(xuid_para,num_para)
@@ -131,14 +132,10 @@ mc.listen("onMoneyReduce",function(xuid_para,num_para)
         skip = false;
         return;
     }
-    let oldMoney = money.get(xuid_para);
-    //判正
-    if(oldMoney < num_para)
-        return;
-    
-    (function(xuid,num,old) {
-        LLMoneyChange(xuid, old - num);
-    })(xuid_para, num_para, oldMoney);
+    (function(xuid, num, current) {
+        logger.debug("LLMoney change: " + data.xuid2name(xuid) + ` reduce ${num}`);
+        LLMoneyChange(xuid, current);
+    })(xuid_para, num_para, money.get(xuid_para));  // 注意！！此时get的money已经是修改过的了
 });
 
 mc.listen("onMoneyTrans",function(from_para,to_para,num_para)
@@ -148,10 +145,11 @@ mc.listen("onMoneyTrans",function(from_para,to_para,num_para)
         skip = false;
         return;
     }
-    (function(from,to,oldFrom,oldTo,num) {
-        LLMoneyChange(from, oldFrom - num);
-        LLMoneyChange(to, oldTo + num);
-    })(from_para,to_para, money.get(from_para), money.get(to_para), num_para);
+    (function(from, to, currentFrom, currentTo, num) {
+        logger.debug("LLMoney change: " + data.xuid2name(from) + ` trans ${num} -> ` + data.xuid2name(to));
+        LLMoneyChange(from, currentFrom);
+        LLMoneyChange(to, currentTo);
+    })(from_para,to_para, money.get(from_para), money.get(to_para), num_para);  // 注意！！此时get的money已经是修改过的了
 });
 
 mc.listen("onMoneySet",function(xuid_para,num_para)
@@ -161,7 +159,8 @@ mc.listen("onMoneySet",function(xuid_para,num_para)
         skip = false;
         return;
     }
-    (function(xuid,num) {
+    (function(xuid, num) {
+        logger.debug("LLMoney change: " + data.xuid2name(xuid) + ` set ${num}`);
         LLMoneyChange(xuid, num);
     })(xuid_para, num_para);
 });
@@ -199,7 +198,13 @@ mc.regConsoleCmd("economicsync reload", "reload economic's config", function(arg
     conf.reload();
 });
 
+ll.registerPlugin(
+    /* name */ "EconomicSync",
+    /* introduction */ "A plugin to sync money between llmoney and scoreboard",
+    /* version */ _VER,
+    /* otherInformation */ {}
+); 
 
-log('[EconomicSync] EconomicSync经济同步插件已装载  当前版本：' + _VER);
+log(`[EconomicSync] EconomicSync经济同步插件已装载  当前版本：${_VER[0]}.${_VER[1]}.${_VER[2]}`);
 log('[EconomicSync] 作者：yqs112358   首发平台：MineBBS');
 log('[EconomicSync] 想要联系作者可前往MineBBS论坛');

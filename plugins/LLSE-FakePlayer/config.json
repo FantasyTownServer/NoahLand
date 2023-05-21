@@ -1,0 +1,15 @@
+{
+    "LogLevel": 4,
+    "OpIsAdmin": 1,
+    "AdminList": [],
+    "UserMode": "whitelist",
+    "UserAllowAction": [
+        "online",
+        "offline",
+        "list",
+        "getinventory",
+        "help",
+        "gui"
+    ],
+    "UserList": []
+}

@@ -1,0 +1,34 @@
+[Crashed!]
+-- Unhandled Exception in -> ucrtbase.dll
+-- Exception Code: 0xC0000409
+-- C++ STL Exception detected!
+[CrashLogger][ERROR] Fail to Generate Minidump! Error Code: 2147942414
+
+[StackTrace] Function invoke_watson at 0x7FFE4618B390  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFE4618B3A8  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function invalid_parameter_noinfo_noreturn at 0x7FFE4618B360  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFE4618B37E  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Reallocate_grow_by<<lambda_65e615be2a453ca0576c979606f46740>,char const * __ptr64,unsigned __int64> at 0x7FF6A688EAF0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF6A688EC30  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A68983D8  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A8280A8C  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A816A88E  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A816A142  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A838C3BF  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A8385B78  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A83D8DD6  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A83D8AF5  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A83D88C8  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ???????? at 0x7FF6A83D845E  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function recalloc at 0x7FFE46136AF0  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFE46136B4C  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function BaseThreadInitThunk at 0x7FFE47104EC0  [KERNEL32.DLL<10.0.20348.469>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFE47104ED0  [KERNEL32.DLL<10.0.20348.469>]
+[StackTrace] Function RtlUserThreadStart at 0x7FFE5A79E3E0  [ntdll.dll<6.2.20348.1129>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFE5A79E40B  [ntdll.dll<6.2.20348.1129>]

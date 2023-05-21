@@ -1,0 +1,17 @@
+{
+    "_name": "Runcloud14",
+    "_pos": {
+        "x": 3136.332275390625,
+        "y": 63,
+        "z": 2598.332763671875,
+        "dimid": 0
+    },
+    "_isOnline": false,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 0,
+    "_opLength": 100,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}

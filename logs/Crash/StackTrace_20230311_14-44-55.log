@@ -1,0 +1,23 @@
+[Crashed!]
+-- Unhandled Exception in -> bedrock_server_mod.exe
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function Dimension::init at 0x7FF7684CE030  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7684CE1B2  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function Level::getOrCreateDimension at 0x7FF7681F75C0  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7681F7902  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function ???????? at 0x7FFD8A954904  []
+[StackTrace] Function ???????? at 0x1E65D7DC880  []
+[StackTrace] Function ???????? at 0x4E  []
+[StackTrace] Function ???????? at 0x1E600000000  []
+[StackTrace] Function ???????? at 0x1E65D7DC880  []
+[StackTrace] Function ???????? at 0xFFF  []
+[StackTrace] Function ???????? at 0x7E979FF0D0  []
+[StackTrace] Function ???????? at 0xFFFFFFD6FFFFF22C  []
+[StackTrace] Function ???????? at 0x7FFD0000039E  []
+[StackTrace] Function ???????? at 0x1E6292A01C0  []
+[StackTrace] Function ???????? at 0x1E650070000  []
+[StackTrace] Function ???????? at 0x1E67E26EE80  []

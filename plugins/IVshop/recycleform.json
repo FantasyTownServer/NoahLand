@@ -1,0 +1,36 @@
+[
+    {
+        "example": true,
+        "exampleex": "这是一个示例",
+        "imagepath": "引用材质路径，分为网络url和本地路径(只支持/)。字符串类型",
+        "imagepathex": "textures/items/diamond.png：将使用textures/items/diamond.png的钻石物品icon作为图片",
+        "searchlvl": "0x4|0x1：对应在物品名称和物品tag中搜寻",
+        "searchtaginfo": "_ore：将匹配所有包含_ore的信息；_ore$：匹配为_ore的信息；diamond${||}_ingot{||}emerald$：将匹配为diamond或包含_ingot或为emerald的信息",
+        "titlename": "此项填按钮名称。字符串类型",
+        "titlenameex": "这是一个按钮：你将看到按钮名称为'这是一个按钮'"
+    },
+    {
+        "imagepath": "textures/blocks/diamond_ore.png",
+        "searchlvl": 4,
+        "searchtaginfo": "_ore{||}raw_",
+        "titlename": "原矿类"
+    },
+    {
+        "imagepath": "textures/items/diamond.png",
+        "searchlvl": 4,
+        "searchtaginfo": "diamond${||}_ingot{||}netherite_scrap${||}coal${||}charcoal${||}emerald${||}quartz${||}amethyst_shard${||}redstone${||}lapis_lazuli$",
+        "titlename": "矿物类"
+    },
+    {
+        "imagepath": "textures/blocks/planks_oak.png",
+        "searchlvl": 4,
+        "searchtaginfo": "planks${||}_planks{||}log",
+        "titlename": "木材类"
+    },
+    {
+        "imagepath": "textures/blocks/stone.png",
+        "searchlvl": 4,
+        "searchtaginfo": "stone${||}stonebrick${||}blackstone${||}deepslate${||}basalt",
+        "titlename": "石材类"
+    }
+]

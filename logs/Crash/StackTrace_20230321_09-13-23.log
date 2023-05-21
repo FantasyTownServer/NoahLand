@@ -1,0 +1,32 @@
+[Crashed!]
+-- Unhandled Exception in -> bedrock_server_mod.exe
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function std::_Func_impl_no_alloc<<lambda_1ccc34066720ea4d28c91bd974eb9101>,void>::_Do_call at 0x7FF7B8623E80  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B8623EBD  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function ServerInstance::onLevelCorrupt at 0x7FF7B8E1E5A0  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B8E1E6F2  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function Minecraft::update at 0x7FF7B9584140  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B95851E9  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function ServerInstance::_update at 0x7FF7B8E1A2A0  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B8E1A39D  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function <lambda_eea4b55ce73e04688a1edc3fabfb52cb>::operator() at 0x7FF7B8E185F0  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B8E18B13  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function std::thread::_Invoke<std::tuple<<lambda_eea4b55ce73e04688a1edc3fabfb52cb> >,0> at 0x7FF7B8E14AB0  [bedrock_server_mod.exe<1.19.63.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7B8E14ABE  [bedrock_server_mod.exe<1.19.63.01>]
+[StackTrace] Function recalloc at 0x7FFD2BC76AF0  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD2BC76B4C  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function BaseThreadInitThunk at 0x7FFD4B3F4EC0  [KERNEL32.DLL<10.0.20348.469>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD4B3F4ED0  [KERNEL32.DLL<10.0.20348.469>]
+[StackTrace] Function RtlUserThreadStart at 0x7FFD518FE3E0  [ntdll.dll<6.2.20348.1129>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD518FE40B  [ntdll.dll<6.2.20348.1129>]

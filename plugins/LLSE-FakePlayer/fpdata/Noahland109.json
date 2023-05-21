@@ -1,0 +1,17 @@
+{
+    "_name": "Noahland109",
+    "_pos": {
+        "x": -50286.56640625,
+        "y": 64,
+        "z": 84.91934204101562,
+        "dimid": 0
+    },
+    "_isOnline": true,
+    "_operation": "",
+    "_opInterval": 1000,
+    "_opMaxTimes": 0,
+    "_opLength": 100,
+    "_opTimeTask": null,
+    "_syncXuid": "",
+    "_lastSyncPlayerPos": null
+}

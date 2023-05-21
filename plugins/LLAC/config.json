@@ -1,0 +1,46 @@
+{
+    "AntiXray": {
+        "AntiXrayObfs": true,
+        "ForceTransparentBlocks": []
+    },
+    "BuiltinPunish": {
+        "BanCommand": "ban {player}",
+        "CheatCountBan": 8,
+        "CheatCountKick": 4,
+        "CrashAsKick": false,
+        "KickMessage": "[AntiCheat] You have been kicked for {reason}"
+    },
+    "Enchant": {
+        "MaxLevel": 5
+    },
+    "FixOriginalBugSwitch": {
+        "ChestCrash": true,
+        "HopperReplicate": true,
+        "IllegalStack": true
+    },
+    "KillAura": {
+        "AttackIntervalMs": 75,
+        "CPSIgnoreActors": [
+            "minecraft:boat",
+            "minecraft:minecart"
+        ],
+        "CheckKillAura": true,
+        "EnableFakePlayer": false,
+        "FakePlayerMoveAngle": 18,
+        "FakePlayerName": "LLAC",
+        "FakePlayerUpdateCount": 60,
+        "FakePlayerUpdateInterval": 2,
+        "KillPerTenSecond": 8
+    },
+    "Switch": {
+        "AntiXpHack": true,
+        "AntiXray": true,
+        "BreakingDetection": true,
+        "CheckEnchant": true,
+        "DisableCommandBlockMinecart": true,
+        "DisableNPC": false,
+        "DisablePlayerSkin": false,
+        "InvalidName": true,
+        "MovementDetection": true
+    }
+}

@@ -1,0 +1,81 @@
+[Crashed!]
+-- Unhandled Exception in -> bedrock_server_mod.exe
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function BreathableComponent::getAirRegenPerTick at 0x7FF76967A800  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76967A800  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Translation::loadImpl at 0x7FFCD161B290  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCD1620D75  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function ???????? at 0x7FFCD04D4288  []
+[StackTrace] Function ???????? at 0x13  []
+[StackTrace] Function ???????? at 0x1F6F4B150E0  []
+[StackTrace] Function ???????? at 0x1  []
+[StackTrace] Function ???????? at 0x13  []
+[StackTrace] Function ???????? at 0x1F600000002  []
+[StackTrace] Function ???????? at 0x66617263656E696D  []
+[StackTrace] Function ???????? at 0x6863726F743A74  []
+[StackTrace] Function ???????? at 0xF  []
+[StackTrace] Function ???????? at 0xF  []
+[StackTrace] Function ???????? at 0x421EC1671153  []
+[StackTrace] Function ???????? at 0x1F6A09163F0  []
+[StackTrace] Function ???????? at 0x1F6F4B150E0  []
+[StackTrace] Function ???????? at 0x1F6DCF514F0  []
+[StackTrace] Function ???????? at 0x5  []
+[StackTrace] Function ???????? at 0x1F6EEBC1314  []
+[StackTrace] Function Translation::loadImpl at 0x7FFCD161B290  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCD161D58D  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function ServerPlayerBlockUseHandler::onStartDestroyBlock at 0x7FF769A42B30  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769A42BE9  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerPlayerBlockUseHandler::onBeforeMovementSimulation at 0x7FF769A423B0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769A42500  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerPlayerMovementSystemUtils::_handlePlayerAuthInputPacket at 0x7FF76991C160  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76991C861  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerPlayerMovementSystemUtils::ServerPlayerMovementSystemUtils::_tickPlayerMovement at 0x7FF76991CB40  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76991CB87  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ViewT<StrictEntityContext,EntityRegistryBase,FlagComponent<ActorMovementTickNeededFlag> const ,FlagComponent<PlayerComponentFlag> const ,ServerPlayerCurrentMovementComponent const ,ActorOwnerComponent>::each<void (__cdecl*)(StrictEntityContext & __ptr64,FlagComponent<ActorMovementTickNeededFlag> const & __ptr64,FlagComponent<PlayerComponentFlag> const & __ptr64,ServerPlayerCurrentMovementComponent const & __ptr64,ActorOwnerComponent & __ptr64)> at 0x7FF76991B5F0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76991B939  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function StrictTickingSystemFunctionAdapter<&ServerPlayerMovementSystemUtils::_tickServerPlayerMovementSystem>::tick at 0x7FF76991D050  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76991D090  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ??@2d6cda194c9fd163df4db80f8d631590@ at 0x7FF769379D00  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769379D2F  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function `anonymous namespace'::DefaultEntitySystemsCollection::foreachTickingSystem at 0x7FF7697EA030  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7697EA35F  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function EntitySystems::tickMovementCatchup at 0x7FF76965FA70  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76965FAF8  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Minecraft::_tryCatchupMovementTicks at 0x7FF76A2BBD70  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76A2BC003  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Minecraft::update at 0x7FF76A2BD450  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF76A2BDEF8  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerInstance::_update at 0x7FF769AFBF10  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769AFC002  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function <lambda_f2e707221d48fb1510572c959b70280b>::operator() at 0x7FF769AFA2D0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769AFA797  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function std::thread::_Invoke<std::tuple<<lambda_f2e707221d48fb1510572c959b70280b> >,0> at 0x7FF769AF6650  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF769AF665E  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function recalloc at 0x7FFCE6DA6AF0  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFCE6DA6B4C  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function BaseThreadInitThunk at 0x7FFD04684EC0  [KERNEL32.DLL<10.0.20348.469>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD04684ED0  [KERNEL32.DLL<10.0.20348.469>]
+[StackTrace] Function RtlUserThreadStart at 0x7FFD18D7E3E0  [ntdll.dll<6.2.20348.1129>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD18D7E40B  [ntdll.dll<6.2.20348.1129>]

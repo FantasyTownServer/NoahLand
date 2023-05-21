@@ -1,1 +1,684 @@
 ﻿时间,维度,主体,X,Y,Z,事件,目标,x,y,z,附加信息
+2023-03-22 23:24:47,,,,,,执行后台命令,allowlist add LivedMother234062,,,,
+2023-03-23 03:58:38,,,,,,执行后台命令,allowlist add zhanlang2022z,,,,
+2023-03-23 03:59:57,,zhanlang2022z,,,,开始进服,,,,,xuid=2535430136812366
+2023-03-23 04:00:22,,zhanlang2022z,,,,离开服务器,,,,,
+2023-03-23 04:00:44,,zhanlang2022z,,,,开始进服,,,,,xuid=2535430136812366
+2023-03-23 04:01:06,,zhanlang2022z,,,,离开服务器,,,,,
+2023-03-23 04:04:17,,zhanlang2022z,,,,开始进服,,,,,xuid=2535430136812366
+2023-03-23 04:04:42,主世界,zhanlang2022z,1,80,107,进入服务器,,,,,xuid=2535430136812366
+2023-03-23 04:11:07,,zhanlang2022z,,,,离开服务器,,,,,
+2023-03-23 04:15:49,,zhanlang2022z,,,,开始进服,,,,,xuid=2535430136812366
+2023-03-23 04:16:26,主世界,zhanlang2022z,-16,70,127,进入服务器,,,,,xuid=2535430136812366
+2023-03-23 04:17:21,主世界,zhanlang2022z,-62,66,52,使用物品点击方块,minecraft:dark_oak_door,-60,64,52,使用物品： 类型：
+2023-03-23 04:17:21,主世界,zhanlang2022z,-62,66,52,方块接受玩家互动,minecraft:dark_oak_door,-60,64,52,
+2023-03-23 04:17:25,主世界,zhanlang2022z,-57,66,53,使用物品点击方块,minecraft:quartz_bricks,-60,64,53,使用物品： 类型：
+2023-03-23 04:17:35,主世界,zhanlang2022z,-53,72,45,使用物品点击方块,minecraft:bed,-53,70,44,使用物品： 类型：
+2023-03-23 04:17:35,主世界,zhanlang2022z,-53,72,45,方块接受玩家互动,minecraft:bed,-53,70,44,
+2023-03-23 04:18:36,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:iron_block,-113,65,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:36,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:iron_block,-113,65,-15,
+2023-03-23 04:18:36,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:grass,-112,65,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:36,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:grass,-112,65,-15,
+2023-03-23 04:18:37,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:grass,-111,65,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:37,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:grass,-111,65,-15,
+2023-03-23 04:18:45,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:iron_block,-113,64,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:45,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:iron_block,-113,64,-15,
+2023-03-23 04:18:46,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:grass,-112,64,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:46,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:grass,-112,64,-15,
+2023-03-23 04:18:46,主世界,zhanlang2022z,-107,66,-19,使用物品点击方块,minecraft:grass,-111,64,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:18:46,主世界,zhanlang2022z,-107,66,-19,放置方块,minecraft:grass,-111,64,-15,
+2023-03-23 04:19:12,主世界,zhanlang2022z,-104,66,-22,破坏方块,minecraft:iron_block,-107,66,-22,
+2023-03-23 04:19:12,主世界,zhanlang2022z,-105,66,-22,破坏方块,minecraft:iron_block,-108,66,-22,
+2023-03-23 04:19:14,主世界,zhanlang2022z,-105,66,-22,破坏方块,minecraft:iron_block,-108,66,-21,
+2023-03-23 04:19:18,主世界,zhanlang2022z,-109,66,-22,破坏方块,minecraft:polished_deepslate,-113,66,-22,
+2023-03-23 04:19:18,主世界,zhanlang2022z,-109,66,-22,破坏方块,minecraft:iron_block,-114,66,-22,
+2023-03-23 04:19:18,主世界,zhanlang2022z,-109,66,-22,破坏方块,minecraft:iron_block,-114,66,-21,
+2023-03-23 04:19:19,主世界,zhanlang2022z,-110,66,-21,破坏方块,minecraft:iron_block,-115,65,-20,
+2023-03-23 04:19:19,主世界,zhanlang2022z,-111,66,-21,破坏方块,minecraft:sea_lantern,-116,65,-20,
+2023-03-23 04:19:19,主世界,zhanlang2022z,-111,66,-21,破坏方块,minecraft:verdant_froglight,-116,64,-20,
+2023-03-23 04:19:20,主世界,zhanlang2022z,-111,66,-21,破坏方块,minecraft:iron_block,-115,64,-20,
+2023-03-23 04:19:20,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-115,63,-20,
+2023-03-23 04:19:21,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:smooth_quartz_stairs,-115,63,-21,
+2023-03-23 04:19:21,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-115,62,-21,
+2023-03-23 04:19:21,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-116,63,-21,
+2023-03-23 04:19:21,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:sea_lantern,-116,63,-20,
+2023-03-23 04:19:22,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-116,63,-22,
+2023-03-23 04:19:25,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-115,66,-21,
+2023-03-23 04:19:25,主世界,zhanlang2022z,-112,66,-21,破坏方块,minecraft:iron_block,-115,66,-22,
+2023-03-23 04:19:30,主世界,zhanlang2022z,-116,64,-21,破坏方块,minecraft:iron_block,-115,62,-22,
+2023-03-23 04:19:30,主世界,zhanlang2022z,-116,64,-21,破坏方块,minecraft:iron_block,-114,62,-22,
+2023-03-23 04:19:31,主世界,zhanlang2022z,-116,64,-21,破坏方块,minecraft:iron_block,-114,62,-21,
+2023-03-23 04:19:31,主世界,zhanlang2022z,-116,64,-21,破坏方块,minecraft:polished_deepslate,-113,62,-21,
+2023-03-23 04:19:32,主世界,zhanlang2022z,-116,64,-21,破坏方块,minecraft:stone,-112,62,-21,
+2023-03-23 04:19:33,主世界,zhanlang2022z,-115,64,-21,破坏方块,minecraft:stone,-111,62,-21,
+2023-03-23 04:19:33,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:stone,-112,62,-22,
+2023-03-23 04:19:35,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:stone_block_slab3,-111,63,-22,
+2023-03-23 04:19:36,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:stone_block_slab3,-111,63,-23,
+2023-03-23 04:19:36,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-108,62,-21,
+2023-03-23 04:19:37,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-107,62,-21,
+2023-03-23 04:19:37,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:smooth_quartz_stairs,-107,63,-21,
+2023-03-23 04:19:38,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-106,63,-21,
+2023-03-23 04:19:38,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:smooth_quartz_stairs,-107,63,-22,
+2023-03-23 04:19:38,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-106,63,-22,
+2023-03-23 04:19:39,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-107,62,-22,
+2023-03-23 04:19:39,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:iron_block,-108,62,-22,
+2023-03-23 04:19:41,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:netherrack,-108,63,-23,
+2023-03-23 04:19:42,主世界,zhanlang2022z,-114,64,-21,破坏方块,minecraft:cobblestone,-110,62,-20,
+2023-03-23 04:19:42,主世界,zhanlang2022z,-113,64,-21,破坏方块,minecraft:cobblestone,-109,62,-19,
+2023-03-23 04:19:42,主世界,zhanlang2022z,-113,64,-21,破坏方块,minecraft:stone,-111,62,-19,
+2023-03-23 04:19:42,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:stone,-111,62,-18,
+2023-03-23 04:19:42,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:stone,-110,62,-18,
+2023-03-23 04:19:43,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:stone,-109,62,-18,
+2023-03-23 04:19:44,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:iron_block,-112,63,-14,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:19:44,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:iron_block,-112,63,-14,
+2023-03-23 04:19:44,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:iron_block,-110,63,-14,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:19:44,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:iron_block,-110,63,-14,
+2023-03-23 04:19:45,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:grass,-110,63,-15,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:19:45,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:grass,-110,63,-15,
+2023-03-23 04:19:45,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:sea_lantern,-111,63,-14,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:19:45,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:sea_lantern,-111,63,-14,
+2023-03-23 04:19:47,主世界,zhanlang2022z,-113,64,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:19:47,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:grass,-110,63,-16,
+2023-03-23 04:19:47,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:grass,-110,63,-15,
+2023-03-23 04:19:47,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:grass,-112,63,-15,
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:polished_deepslate,-109,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:polished_deepslate,-109,62,-23,
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-110,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-110,62,-23,
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-110,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:58,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-110,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-111,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-111,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-111,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-111,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-111,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-111,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-112,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-112,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-112,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-112,62,-23,
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-112,62,-23,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:19:59,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-112,62,-23,
+2023-03-23 04:20:01,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:cobblestone,-111,62,-19,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:20:01,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:cobblestone,-111,62,-19,
+2023-03-23 04:20:01,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-112,62,-19,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:20:01,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-112,62,-19,
+2023-03-23 04:20:03,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-113,62,-18,使用物品：水桶 类型：minecraft:water_bucket
+2023-03-23 04:20:03,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-113,62,-18,
+2023-03-23 04:20:05,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:stone,-113,62,-18,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:20:05,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:stone,-113,62,-18,
+2023-03-23 04:20:06,主世界,zhanlang2022z,-113,64,-20,使用物品点击方块,minecraft:grass,-113,63,-18,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:20:06,主世界,zhanlang2022z,-113,64,-20,放置方块,minecraft:grass,-113,63,-18,
+2023-03-23 04:20:07,主世界,zhanlang2022z,-113,64,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:07,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:grass,-113,63,-19,
+2023-03-23 04:20:07,主世界,zhanlang2022z,-113,64,-20,破坏方块,minecraft:grass,-113,63,-18,
+2023-03-23 04:20:15,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:15,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone_block_slab3,-112,61,-19,
+2023-03-23 04:20:15,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:16,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:16,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_andesite_stairs,-112,61,-18,
+2023-03-23 04:20:16,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-111,61,-18,
+2023-03-23 04:20:16,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_andesite_stairs,-110,61,-20,
+2023-03-23 04:20:16,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone_block_slab3,-110,61,-21,
+2023-03-23 04:20:17,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:cobblestone,-109,62,-18,
+2023-03-23 04:20:17,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:cobblestone,-110,62,-19,
+2023-03-23 04:20:17,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone_block_slab3,-112,61,-21,
+2023-03-23 04:20:17,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_andesite_stairs,-112,61,-20,
+2023-03-23 04:20:18,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-112,62,-19,
+2023-03-23 04:20:18,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-112,62,-18,
+2023-03-23 04:20:18,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:cobblestone,-111,62,-19,
+2023-03-23 04:20:19,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-110,62,-17,
+2023-03-23 04:20:19,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-109,62,-17,
+2023-03-23 04:20:19,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-111,61,-16,
+2023-03-23 04:20:19,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone_block_slab3,-112,61,-17,
+2023-03-23 04:20:20,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-113,62,-18,
+2023-03-23 04:20:20,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-113,62,-17,
+2023-03-23 04:20:20,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-112,62,-17,
+2023-03-23 04:20:21,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:cobblestone,-111,62,-17,
+2023-03-23 04:20:21,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone_block_slab3,-110,61,-19,
+2023-03-23 04:20:21,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_andesite_stairs,-110,61,-18,
+2023-03-23 04:20:21,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-108,62,-17,
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_deepslate_stairs,-107,62,-19,
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:polished_deepslate_slab,-106,62,-19,
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:22,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-107,62,-16,
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:iron_block,-111,62,-15,
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-113,62,-16,
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:23,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-114,62,-15,
+2023-03-23 04:20:24,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-114,62,-17,
+2023-03-23 04:20:24,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-115,62,-16,
+2023-03-23 04:20:24,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:iron_block,-116,62,-14,
+2023-03-23 04:20:24,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:24,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:iron_block,-111,62,-14,
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,破坏方块,minecraft:stone,-114,62,-16,
+2023-03-23 04:20:25,主世界,zhanlang2022z,-111,61,-22,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-114,64,-14,
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-115,64,-14,
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:29,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-113,64,-15,
+2023-03-23 04:20:30,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:dirt,-111,64,-15,
+2023-03-23 04:20:30,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:dirt,-110,64,-15,
+2023-03-23 04:20:30,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:grass,-112,64,-15,
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:grass,-112,65,-15,
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:31,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-113,65,-15,
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-112,65,-14,
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:dirt,-111,65,-15,
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:sea_lantern,-110,64,-14,
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-109,64,-14,
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:32,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-110,63,-14,
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-109,63,-15,
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:grass,-111,63,-15,
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-113,63,-15,
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:33,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:stone,-112,62,-16,
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:34,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:stone,-110,62,-16,
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:stone,-109,62,-16,
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:stone,-108,62,-16,
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-106,62,-15,
+2023-03-23 04:20:35,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:36,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:36,主世界,zhanlang2022z,-111,63,-20,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:36,主世界,zhanlang2022z,-111,63,-20,破坏方块,minecraft:iron_block,-107,61,-15,
+2023-03-23 04:20:39,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:39,主世界,zhanlang2022z,-103,63,-11,破坏方块,minecraft:iron_block,-106,62,-14,
+2023-03-23 04:20:39,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:39,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:40,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:40,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:40,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:40,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:40,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:41,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:41,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:41,主世界,zhanlang2022z,-103,63,-11,破坏方块,minecraft:stone,-108,62,-15,
+2023-03-23 04:20:41,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:41,主世界,zhanlang2022z,-103,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-104,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-104,63,-11,破坏方块,minecraft:iron_block,-110,62,-15,
+2023-03-23 04:20:42,主世界,zhanlang2022z,-105,63,-11,破坏方块,minecraft:iron_block,-112,62,-15,
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,63,-12,
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:42,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,63,-13,
+2023-03-23 04:20:43,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,63,-13,
+2023-03-23 04:20:43,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:sea_lantern,-111,63,-14,
+2023-03-23 04:20:43,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,63,-14,
+2023-03-23 04:20:43,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:44,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:44,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:verdant_froglight,-111,64,-14,
+2023-03-23 04:20:44,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:sea_lantern,-112,64,-14,
+2023-03-23 04:20:44,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-113,64,-14,
+2023-03-23 04:20:44,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-116,64,-14,
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,63,-12,
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-116,64,-15,
+2023-03-23 04:20:45,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:46,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:46,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:46,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-116,63,-15,
+2023-03-23 04:20:46,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:46,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:47,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:47,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:47,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-115,61,-15,
+2023-03-23 04:20:47,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:47,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:48,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:48,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:48,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-115,61,-14,
+2023-03-23 04:20:48,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:48,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:50,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:50,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-107,61,-14,
+2023-03-23 04:20:50,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:50,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:stone_block_slab3,-110,61,-17,
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-107,64,-14,
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-106,64,-15,
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:53,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-108,64,-14,
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-109,64,-15,
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-109,65,-15,
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,65,-14,
+2023-03-23 04:20:54,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,65,-13,
+2023-03-23 04:20:55,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,65,-12,
+2023-03-23 04:20:55,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,65,-13,
+2023-03-23 04:20:55,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,65,-12,
+2023-03-23 04:20:55,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:sea_lantern,-111,65,-14,
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-112,66,-15,
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:56,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-111,66,-14,
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-115,67,-14,
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:57,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:58,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:58,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:dirt,-110,65,-15,
+2023-03-23 04:20:58,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-110,66,-15,
+2023-03-23 04:20:58,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-111,66,-15,
+2023-03-23 04:20:58,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:59,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:59,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:59,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-106,64,-14,
+2023-03-23 04:20:59,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:20:59,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,破坏方块,minecraft:iron_block,-107,67,-14,
+2023-03-23 04:21:00,主世界,zhanlang2022z,-106,63,-11,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:06,主世界,zhanlang2022z,-111,68,-18,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:21:22,主世界,zhanlang2022z,-110,65,-18,使用物品点击方块,minecraft:polished_deepslate,-109,62,-23,使用物品：紫珀阶梯 类型：minecraft:purpur_stairs
+2023-03-23 04:21:22,主世界,zhanlang2022z,-110,65,-18,放置方块,minecraft:polished_deepslate,-109,62,-23,
+2023-03-23 04:21:23,主世界,zhanlang2022z,-110,65,-18,使用物品点击方块,minecraft:stone,-110,62,-23,使用物品：紫珀阶梯 类型：minecraft:purpur_stairs
+2023-03-23 04:21:23,主世界,zhanlang2022z,-110,65,-18,放置方块,minecraft:stone,-110,62,-23,
+2023-03-23 04:21:24,主世界,zhanlang2022z,-110,65,-18,使用物品点击方块,minecraft:stone,-111,62,-23,使用物品：紫珀阶梯 类型：minecraft:purpur_stairs
+2023-03-23 04:21:24,主世界,zhanlang2022z,-110,65,-18,放置方块,minecraft:stone,-111,62,-23,
+2023-03-23 04:21:25,主世界,zhanlang2022z,-110,65,-18,使用物品点击方块,minecraft:stone,-112,62,-23,使用物品：紫珀阶梯 类型：minecraft:purpur_stairs
+2023-03-23 04:21:25,主世界,zhanlang2022z,-110,65,-18,放置方块,minecraft:stone,-112,62,-23,
+2023-03-23 04:21:26,主世界,zhanlang2022z,-110,65,-18,使用物品点击方块,minecraft:polished_deepslate,-113,62,-23,使用物品：紫珀阶梯 类型：minecraft:purpur_stairs
+2023-03-23 04:21:26,主世界,zhanlang2022z,-110,65,-18,放置方块,minecraft:polished_deepslate,-113,62,-23,
+2023-03-23 04:22:16,主世界,zhanlang2022z,-109,65,-18,使用物品点击方块,minecraft:stone,-108,63,-24,使用物品：磨制闪长岩 类型：minecraft:stone
+2023-03-23 04:22:16,主世界,zhanlang2022z,-109,65,-18,放置方块,minecraft:stone,-108,63,-24,
+2023-03-23 04:22:24,主世界,zhanlang2022z,-109,65,-18,使用物品点击方块,minecraft:stone,-108,64,-24,使用物品：海晶灯 15 类型：minecraft:sea_lantern
+2023-03-23 04:22:24,主世界,zhanlang2022z,-109,65,-18,放置方块,minecraft:stone,-108,64,-24,
+2023-03-23 04:23:21,主世界,zhanlang2022z,-80,67,-18,使用物品点击方块,minecraft:wheat,-83,63,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:21,主世界,zhanlang2022z,-80,67,-18,放置方块,minecraft:wheat,-83,63,-17,
+2023-03-23 04:23:21,主世界,zhanlang2022z,-81,67,-18,使用物品点击方块,minecraft:wheat,-83,63,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:21,主世界,zhanlang2022z,-81,67,-18,放置方块,minecraft:wheat,-83,63,-17,
+2023-03-23 04:23:23,主世界,zhanlang2022z,-83,67,-18,使用物品点击方块,minecraft:dirt,-84,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:24,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:dirt,-79,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:25,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:dirt,-80,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:25,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:dirt,-81,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:25,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-81,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:25,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:dirt,-82,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:26,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-79,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:26,主世界,zhanlang2022z,-82,67,-17,放置方块,minecraft:farmland,-79,62,-17,
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-80,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,放置方块,minecraft:farmland,-80,62,-17,
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-81,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,放置方块,minecraft:farmland,-81,62,-17,
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-82,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:27,主世界,zhanlang2022z,-82,67,-17,放置方块,minecraft:farmland,-82,62,-17,
+2023-03-23 04:23:29,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:farmland,-84,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:29,主世界,zhanlang2022z,-82,67,-17,放置方块,minecraft:farmland,-84,62,-17,
+2023-03-23 04:23:29,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-84,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:31,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-79,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:31,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-80,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:31,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-80,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:31,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-81,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:32,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-81,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:32,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-82,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:32,主世界,zhanlang2022z,-82,67,-17,使用物品点击方块,minecraft:wheat,-82,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:35,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:dirt,-74,62,-18,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:35,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:dirt,-74,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:35,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:dirt,-75,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:36,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:dirt,-76,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:36,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:grass,-71,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:36,主世界,zhanlang2022z,-75,67,-17,使用物品点击方块,minecraft:wheat,-73,63,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:36,主世界,zhanlang2022z,-75,67,-17,放置方块,minecraft:wheat,-73,63,-17,
+2023-03-23 04:23:38,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:grass,-72,62,-17,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:40,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-71,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:40,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-71,62,-17,
+2023-03-23 04:23:40,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:wheat,-73,63,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:40,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:wheat,-73,63,-17,
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-74,62,-18,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-74,62,-18,
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-74,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-74,62,-17,
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-76,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:41,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-76,62,-17,
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-75,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-75,62,-17,
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:wheat,-75,63,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:wheat,-75,63,-17,
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:wheat,-74,63,-18,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:42,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:wheat,-74,63,-18,
+2023-03-23 04:23:43,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:wheat,-74,63,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:43,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:wheat,-74,63,-17,
+2023-03-23 04:23:44,主世界,zhanlang2022z,-74,67,-17,使用物品点击方块,minecraft:farmland,-72,62,-17,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:23:44,主世界,zhanlang2022z,-74,67,-17,放置方块,minecraft:farmland,-72,62,-17,
+2023-03-23 04:23:45,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-71,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:45,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-72,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:46,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-74,63,-18,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:47,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-74,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:48,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-76,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:48,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-75,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:48,主世界,zhanlang2022z,-73,67,-17,使用物品点击方块,minecraft:wheat,-75,63,-17,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:50,主世界,zhanlang2022z,-71,67,-18,使用物品点击方块,minecraft:wheat,-71,63,-18,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:51,主世界,zhanlang2022z,-71,67,-18,使用物品点击方块,minecraft:grass,-70,62,-18,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:23:53,主世界,zhanlang2022z,-71,69,-18,使用物品点击方块,minecraft:tallgrass,-70,63,-18,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:53,主世界,zhanlang2022z,-71,69,-18,放置方块,minecraft:tallgrass,-70,63,-18,
+2023-03-23 04:23:54,主世界,zhanlang2022z,-69,69,-19,使用物品点击方块,minecraft:tallgrass,-70,63,-18,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:54,主世界,zhanlang2022z,-69,69,-19,放置方块,minecraft:tallgrass,-70,63,-18,
+2023-03-23 04:23:57,主世界,zhanlang2022z,-70,66,-18,使用物品点击方块,minecraft:tallgrass,-70,63,-18,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:23:57,主世界,zhanlang2022z,-70,66,-18,放置方块,minecraft:tallgrass,-70,63,-18,
+2023-03-23 04:23:58,主世界,zhanlang2022z,-70,66,-18,使用物品,犁,,,,类型：dp_foods_plus:plow
+2023-03-23 04:23:58,主世界,zhanlang2022z,-70,66,-18,破坏方块,minecraft:tallgrass,-70,63,-18,
+2023-03-23 04:23:59,主世界,zhanlang2022z,-70,66,-18,使用物品点击方块,minecraft:grass,-70,62,-18,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:01,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:grass,-66,62,-21,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:02,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:grass,-67,62,-21,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:02,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:grass,-68,62,-20,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:02,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:dirt,-66,62,-23,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:04,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:farmland,-66,62,-23,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:04,主世界,zhanlang2022z,-68,70,-19,放置方块,minecraft:farmland,-66,62,-23,
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:farmland,-66,62,-21,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,放置方块,minecraft:farmland,-66,62,-21,
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:farmland,-67,62,-21,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,放置方块,minecraft:farmland,-67,62,-21,
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:farmland,-68,62,-20,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:05,主世界,zhanlang2022z,-68,70,-19,放置方块,minecraft:farmland,-68,62,-20,
+2023-03-23 04:24:07,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:farmland,-70,62,-18,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:07,主世界,zhanlang2022z,-68,70,-19,放置方块,minecraft:farmland,-70,62,-18,
+2023-03-23 04:24:08,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-70,63,-18,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:08,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-68,63,-20,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:09,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-67,63,-21,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:09,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-66,63,-21,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:11,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-67,63,-23,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:11,主世界,zhanlang2022z,-68,70,-19,使用物品点击方块,minecraft:wheat,-66,63,-23,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:14,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:wheat,-63,63,-27,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:14,主世界,zhanlang2022z,-64,70,-25,放置方块,minecraft:wheat,-63,63,-27,
+2023-03-23 04:24:15,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:dirt,-64,62,-27,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:15,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:grass,-64,62,-25,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:16,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:wheat,-63,63,-27,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:16,主世界,zhanlang2022z,-64,70,-25,放置方块,minecraft:wheat,-63,63,-27,
+2023-03-23 04:24:17,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:dirt,-63,62,-28,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:farmland,-63,62,-28,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,放置方块,minecraft:farmland,-63,62,-28,
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:farmland,-64,62,-27,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,放置方块,minecraft:farmland,-64,62,-27,
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:farmland,-64,62,-25,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:19,主世界,zhanlang2022z,-64,70,-25,放置方块,minecraft:farmland,-64,62,-25,
+2023-03-23 04:24:21,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:wheat,-64,63,-27,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:21,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:wheat,-64,63,-25,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:21,主世界,zhanlang2022z,-64,70,-25,使用物品点击方块,minecraft:wheat,-63,63,-28,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:27,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:dirt,-59,62,-33,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:27,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:dirt,-60,62,-32,使用物品：犁 类型：dp_foods_plus:plow
+2023-03-23 04:24:28,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:farmland,-59,62,-33,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:28,主世界,zhanlang2022z,-60,70,-31,放置方块,minecraft:farmland,-59,62,-33,
+2023-03-23 04:24:29,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:farmland,-60,62,-32,使用物品：种子 类型：minecraft:wheat_seeds
+2023-03-23 04:24:29,主世界,zhanlang2022z,-60,70,-31,放置方块,minecraft:farmland,-60,62,-32,
+2023-03-23 04:24:30,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:wheat,-59,63,-33,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:30,主世界,zhanlang2022z,-60,70,-31,使用物品点击方块,minecraft:wheat,-60,63,-32,使用物品：骨粉 类型：minecraft:bone_meal
+2023-03-23 04:24:40,主世界,zhanlang2022z,-71,70,-77,破坏方块,minecraft:log,-76,65,-81,
+2023-03-23 04:24:47,主世界,zhanlang2022z,-72,70,-79,使用物品点击方块,minecraft:log,-76,64,-81,使用物品：桦树原木 类型：minecraft:log
+2023-03-23 04:24:47,主世界,zhanlang2022z,-72,70,-79,放置方块,minecraft:log,-76,64,-81,
+2023-03-23 04:24:49,主世界,zhanlang2022z,-72,70,-79,使用物品点击方块,minecraft:birch_door,-76,65,-77,使用物品：桦树原木 类型：minecraft:log
+2023-03-23 04:24:49,主世界,zhanlang2022z,-72,70,-79,方块接受玩家互动,minecraft:birch_door,-76,65,-77,
+2023-03-23 04:25:06,主世界,zhanlang2022z,-54,65,-95,破坏方块,minecraft:bedrock,-52,65,-96,
+2023-03-23 04:25:06,主世界,zhanlang2022z,-54,65,-95,破坏方块,minecraft:bedrock,-50,65,-96,
+2023-03-23 04:25:07,主世界,zhanlang2022z,-55,65,-96,破坏方块,minecraft:bedrock,-53,65,-97,
+2023-03-23 04:25:07,主世界,zhanlang2022z,-55,65,-97,破坏方块,minecraft:bedrock,-53,65,-98,
+2023-03-23 04:25:07,主世界,zhanlang2022z,-56,65,-98,破坏方块,minecraft:bedrock,-53,65,-99,
+2023-03-23 04:25:07,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-53,65,-100,
+2023-03-23 04:25:08,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-53,65,-101,
+2023-03-23 04:25:08,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-51,66,-102,
+2023-03-23 04:25:08,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-47,66,-100,
+2023-03-23 04:25:08,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-47,66,-97,
+2023-03-23 04:25:08,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-48,66,-96,
+2023-03-23 04:25:09,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-50,66,-96,
+2023-03-23 04:25:09,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-51,66,-96,
+2023-03-23 04:25:09,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-49,65,-96,
+2023-03-23 04:25:10,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-47,65,-97,
+2023-03-23 04:25:10,主世界,zhanlang2022z,-56,65,-99,破坏方块,minecraft:bedrock,-47,65,-98,
+2023-03-23 04:25:10,主世界,zhanlang2022z,-55,65,-99,破坏方块,minecraft:bedrock,-47,65,-99,
+2023-03-23 04:25:11,主世界,zhanlang2022z,-54,65,-100,破坏方块,minecraft:bedrock,-47,65,-100,
+2023-03-23 04:25:11,主世界,zhanlang2022z,-54,65,-100,破坏方块,minecraft:bedrock,-47,65,-101,
+2023-03-23 04:25:12,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,65,-102,
+2023-03-23 04:25:12,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,65,-102,
+2023-03-23 04:25:12,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,66,-102,
+2023-03-23 04:25:12,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,66,-102,
+2023-03-23 04:25:12,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,67,-102,
+2023-03-23 04:25:13,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,68,-101,
+2023-03-23 04:25:13,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,66,-100,
+2023-03-23 04:25:13,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,68,-98,
+2023-03-23 04:25:14,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,67,-97,
+2023-03-23 04:25:14,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,67,-100,
+2023-03-23 04:25:14,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,67,-102,
+2023-03-23 04:25:14,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,65,-102,
+2023-03-23 04:25:15,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,66,-102,
+2023-03-23 04:25:15,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,66,-102,
+2023-03-23 04:25:15,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,67,-102,
+2023-03-23 04:25:15,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,67,-101,
+2023-03-23 04:25:15,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,66,-101,
+2023-03-23 04:25:16,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,65,-102,
+2023-03-23 04:25:16,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,65,-102,
+2023-03-23 04:25:16,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,67,-102,
+2023-03-23 04:25:17,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,66,-101,
+2023-03-23 04:25:17,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,67,-102,
+2023-03-23 04:25:17,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,68,-101,
+2023-03-23 04:25:17,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,68,-100,
+2023-03-23 04:25:18,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,68,-99,
+2023-03-23 04:25:18,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,66,-99,
+2023-03-23 04:25:18,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,66,-98,
+2023-03-23 04:25:18,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,68,-98,
+2023-03-23 04:25:19,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,68,-99,
+2023-03-23 04:25:19,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,68,-99,
+2023-03-23 04:25:19,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,68,-100,
+2023-03-23 04:25:19,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,67,-101,
+2023-03-23 04:25:19,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,68,-101,
+2023-03-23 04:25:20,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,68,-100,
+2023-03-23 04:25:20,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,67,-100,
+2023-03-23 04:25:20,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,68,-99,
+2023-03-23 04:25:20,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,67,-99,
+2023-03-23 04:25:20,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,67,-98,
+2023-03-23 04:25:21,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,67,-97,
+2023-03-23 04:25:21,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,67,-96,
+2023-03-23 04:25:21,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,68,-97,
+2023-03-23 04:25:21,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,68,-97,
+2023-03-23 04:25:22,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,68,-98,
+2023-03-23 04:25:22,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-53,66,-97,
+2023-03-23 04:25:23,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-52,66,-96,
+2023-03-23 04:25:23,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,67,-96,
+2023-03-23 04:25:23,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,67,-96,
+2023-03-23 04:25:24,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,67,-96,
+2023-03-23 04:25:24,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-50,68,-97,
+2023-03-23 04:25:24,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,68,-98,
+2023-03-23 04:25:24,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,68,-97,
+2023-03-23 04:25:25,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,68,-100,
+2023-03-23 04:25:25,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,68,-101,
+2023-03-23 04:25:26,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-51,68,-101,
+2023-03-23 04:25:27,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,68,-99,
+2023-03-23 04:25:27,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,68,-98,
+2023-03-23 04:25:28,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,68,-97,
+2023-03-23 04:25:28,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,67,-98,
+2023-03-23 04:25:28,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,67,-99,
+2023-03-23 04:25:29,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,66,-99,
+2023-03-23 04:25:29,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-47,66,-98,
+2023-03-23 04:25:30,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-49,66,-96,
+2023-03-23 04:25:30,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,67,-96,
+2023-03-23 04:25:31,主世界,zhanlang2022z,-55,65,-100,破坏方块,minecraft:bedrock,-48,68,-100,
+2023-03-23 04:25:34,主世界,zhanlang2022z,-54,65,-102,破坏方块,minecraft:bedrock,-52,63,-102,
+2023-03-23 04:25:34,主世界,zhanlang2022z,-53,65,-102,破坏方块,minecraft:bedrock,-51,63,-102,
+2023-03-23 04:25:34,主世界,zhanlang2022z,-52,65,-101,破坏方块,minecraft:bedrock,-50,63,-102,
+2023-03-23 04:25:35,主世界,zhanlang2022z,-50,65,-101,破坏方块,minecraft:bedrock,-49,63,-102,
+2023-03-23 04:25:36,主世界,zhanlang2022z,-50,65,-101,破坏方块,minecraft:bedrock,-48,63,-102,
+2023-03-23 04:25:38,主世界,zhanlang2022z,-46,65,-103,破坏方块,minecraft:bedrock,-47,63,-101,
+2023-03-23 04:25:38,主世界,zhanlang2022z,-46,65,-102,破坏方块,minecraft:bedrock,-47,63,-100,
+2023-03-23 04:25:39,主世界,zhanlang2022z,-46,65,-100,破坏方块,minecraft:bedrock,-47,63,-99,
+2023-03-23 04:25:40,主世界,zhanlang2022z,-46,65,-99,破坏方块,minecraft:bedrock,-47,63,-98,
+2023-03-23 04:25:41,主世界,zhanlang2022z,-46,65,-98,破坏方块,minecraft:bedrock,-47,63,-97,
+2023-03-23 04:25:42,主世界,zhanlang2022z,-46,65,-97,破坏方块,minecraft:bedrock,-48,63,-96,
+2023-03-23 04:25:42,主世界,zhanlang2022z,-47,65,-97,破坏方块,minecraft:bedrock,-49,63,-96,
+2023-03-23 04:25:42,主世界,zhanlang2022z,-47,65,-97,破坏方块,minecraft:bedrock,-50,63,-96,
+2023-03-23 04:25:43,主世界,zhanlang2022z,-48,65,-96,破坏方块,minecraft:bedrock,-51,63,-96,
+2023-03-23 04:25:44,主世界,zhanlang2022z,-48,65,-96,破坏方块,minecraft:bedrock,-53,63,-97,
+2023-03-23 04:25:45,主世界,zhanlang2022z,-48,65,-96,破坏方块,minecraft:bedrock,-52,63,-96,
+2023-03-23 04:25:45,主世界,zhanlang2022z,-48,65,-96,破坏方块,minecraft:bedrock,-53,63,-98,
+2023-03-23 04:25:47,主世界,zhanlang2022z,-48,65,-97,破坏方块,minecraft:bedrock,-53,63,-100,
+2023-03-23 04:25:48,主世界,zhanlang2022z,-48,65,-97,破坏方块,minecraft:bedrock,-53,63,-101,
+2023-03-23 04:25:51,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-48,62,-97,
+2023-03-23 04:25:52,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-48,62,-98,
+2023-03-23 04:25:52,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-49,62,-98,
+2023-03-23 04:25:52,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:dirt,-49,61,-98,
+2023-03-23 04:25:52,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-50,62,-98,
+2023-03-23 04:25:53,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-49,62,-97,
+2023-03-23 04:25:53,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-50,62,-97,
+2023-03-23 04:25:53,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-50,62,-99,
+2023-03-23 04:25:54,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:dirt,-50,61,-99,
+2023-03-23 04:25:54,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-49,62,-99,
+2023-03-23 04:25:54,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-49,62,-100,
+2023-03-23 04:25:55,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-48,62,-100,
+2023-03-23 04:25:55,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-48,62,-101,
+2023-03-23 04:25:56,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-48,62,-99,
+2023-03-23 04:25:57,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-49,62,-101,
+2023-03-23 04:25:57,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-50,62,-100,
+2023-03-23 04:25:58,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-51,62,-100,
+2023-03-23 04:25:58,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-51,62,-99,
+2023-03-23 04:25:58,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-51,62,-98,
+2023-03-23 04:25:59,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-51,62,-97,
+2023-03-23 04:26:00,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-52,62,-97,
+2023-03-23 04:26:00,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-52,62,-98,
+2023-03-23 04:26:00,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-52,62,-99,
+2023-03-23 04:26:01,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-52,62,-100,
+2023-03-23 04:26:02,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-50,62,-101,
+2023-03-23 04:26:02,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-51,62,-101,
+2023-03-23 04:26:03,主世界,zhanlang2022z,-47,66,-97,破坏方块,minecraft:bedrock,-52,62,-101,
+2023-03-23 04:26:04,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-99,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:04,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-99,
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:stone,-49,60,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:stone,-49,60,-98,
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-52,62,-102,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-52,62,-102,
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-101,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-101,
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-50,61,-101,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:05,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-50,61,-101,
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-52,61,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-52,61,-100,
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-100,
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-50,61,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-50,61,-100,
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-52,61,-99,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-52,61,-99,
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-99,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:06,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-99,
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-52,61,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-52,61,-98,
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-98,
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-50,61,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-50,61,-98,
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:grass,-50,62,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:07,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:grass,-50,62,-98,
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-52,61,-97,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-52,61,-97,
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-51,61,-97,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-51,61,-97,
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-50,61,-97,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-50,61,-97,
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-49,61,-97,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:08,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-49,61,-97,
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-49,62,-102,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-49,62,-102,
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-49,61,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-49,61,-100,
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:grass,-49,62,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:09,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:grass,-49,62,-100,
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-48,62,-102,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-48,62,-102,
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-48,61,-100,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-48,61,-100,
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-48,61,-99,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:10,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-48,61,-99,
+2023-03-23 04:26:11,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-48,61,-98,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:11,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-48,61,-98,
+2023-03-23 04:26:11,主世界,zhanlang2022z,-47,66,-97,使用物品点击方块,minecraft:dirt,-48,61,-97,使用物品：草方块 类型：minecraft:grass
+2023-03-23 04:26:11,主世界,zhanlang2022z,-47,66,-97,放置方块,minecraft:dirt,-48,61,-97,
+2023-03-23 04:26:14,主世界,zhanlang2022z,-44,66,-95,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:26:14,主世界,zhanlang2022z,-44,66,-95,破坏方块,minecraft:bedrock,-48,65,-96,
+2023-03-23 04:26:15,主世界,zhanlang2022z,-44,66,-92,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:26:16,主世界,zhanlang2022z,-44,66,-92,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:26:16,主世界,zhanlang2022z,-44,66,-92,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:26:17,主世界,zhanlang2022z,-44,66,-92,使用物品,草方块,,,,类型：minecraft:grass
+2023-03-23 04:26:28,主世界,zhanlang2022z,-46,66,-94,使用物品点击方块,minecraft:sand,-47,61,-95,使用物品：沙子 类型：minecraft:sand
+2023-03-23 04:26:28,主世界,zhanlang2022z,-46,66,-94,放置方块,minecraft:sand,-47,61,-95,
+2023-03-23 04:26:29,主世界,zhanlang2022z,-46,66,-94,使用物品点击方块,minecraft:sand,-46,61,-94,使用物品：沙子 类型：minecraft:sand
+2023-03-23 04:26:29,主世界,zhanlang2022z,-46,66,-94,放置方块,minecraft:sand,-46,61,-94,
+2023-03-23 04:26:29,主世界,zhanlang2022z,-46,66,-94,使用物品点击方块,minecraft:sand,-46,61,-95,使用物品：沙子 类型：minecraft:sand
+2023-03-23 04:26:29,主世界,zhanlang2022z,-46,66,-94,放置方块,minecraft:sand,-46,61,-95,
+2023-03-23 04:26:30,主世界,zhanlang2022z,-46,66,-94,使用物品点击方块,minecraft:sand,-45,62,-92,使用物品：沙子 类型：minecraft:sand
+2023-03-23 04:26:30,主世界,zhanlang2022z,-46,66,-94,放置方块,minecraft:sand,-45,62,-92,
+2023-03-23 04:27:01,主世界,zhanlang2022z,-70,65,-223,使用物品点击方块,minecraft:chest,-66,63,-227,使用物品： 类型：
+2023-03-23 04:27:01,主世界,zhanlang2022z,-70,65,-223,打开容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:01,主世界,zhanlang2022z,-70,65,-223,方块接受玩家互动,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:03,主世界,zhanlang2022z,-70,65,-223,关闭容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:19,主世界,zhanlang2022z,-70,65,-223,使用物品点击方块,minecraft:chest,-66,63,-227,使用物品：矿车 类型：minecraft:minecart
+2023-03-23 04:27:19,主世界,zhanlang2022z,-70,65,-223,打开容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:19,主世界,zhanlang2022z,-70,65,-223,方块接受玩家互动,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:20,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第0号槽 放入1个 矿车
+2023-03-23 04:27:22,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第2号槽 放入1个 矿车
+2023-03-23 04:27:22,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第1号槽 放入1个 矿车
+2023-03-23 04:27:23,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第3号槽 放入1个 矿车
+2023-03-23 04:27:24,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第4号槽 放入1个 矿车
+2023-03-23 04:27:24,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第5号槽 放入1个 矿车
+2023-03-23 04:27:25,主世界,zhanlang2022z,-70,65,-223,关闭容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:35,主世界,zhanlang2022z,-70,65,-223,使用物品点击方块,minecraft:chest,-66,63,-227,使用物品：矿车 类型：minecraft:minecart
+2023-03-23 04:27:35,主世界,zhanlang2022z,-70,65,-223,打开容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:35,主世界,zhanlang2022z,-70,65,-223,方块接受玩家互动,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:37,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第6号槽 放入1个 矿车
+2023-03-23 04:27:37,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第7号槽 放入1个 矿车
+2023-03-23 04:27:38,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第8号槽 放入1个 矿车
+2023-03-23 04:27:39,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第9号槽 放入1个 矿车
+2023-03-23 04:27:39,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第10号槽 放入1个 矿车
+2023-03-23 04:27:40,主世界,zhanlang2022z,-70,65,-223,向容器放入物品,minecraft:chest,-66,63,-227,向第12号槽 放入1个 矿车
+2023-03-23 04:27:41,主世界,zhanlang2022z,-70,65,-223,关闭容器,minecraft:chest,-66,63,-227,
+2023-03-23 04:27:50,主世界,zhanlang2022z,-111,71,-224,使用物品点击方块,minecraft:dispenser,-109,64,-223,使用物品： 类型：
+2023-03-23 04:27:50,主世界,zhanlang2022z,-111,71,-224,方块接受玩家互动,minecraft:dispenser,-109,64,-223,
+2023-03-23 04:27:50,主世界,zhanlang2022z,-111,71,-224,打开容器,minecraft:dispenser,-109,64,-223,
+2023-03-23 04:29:28,主世界,zhanlang2022z,-82,66,34,使用物品点击方块,minecraft:grass,-79,63,36,使用物品： 类型：
+2023-03-23 04:29:28,主世界,zhanlang2022z,-82,66,34,使用物品点击方块,minecraft:scaffolding,-80,64,35,使用物品： 类型：
+2023-03-23 04:29:38,主世界,zhanlang2022z,-61,66,53,使用物品点击方块,minecraft:dark_oak_door,-60,65,52,使用物品： 类型：
+2023-03-23 04:29:38,主世界,zhanlang2022z,-61,66,53,方块接受玩家互动,minecraft:dark_oak_door,-60,65,52,
+2023-03-23 04:29:40,主世界,zhanlang2022z,-58,66,53,使用物品点击方块,minecraft:dark_oak_door,-60,64,52,使用物品： 类型：
+2023-03-23 04:29:40,主世界,zhanlang2022z,-58,66,53,方块接受玩家互动,minecraft:dark_oak_door,-60,64,52,
+2023-03-23 04:29:41,主世界,zhanlang2022z,-56,66,53,使用物品点击方块,minecraft:quartz_bricks,-60,65,53,使用物品： 类型：
+2023-03-23 04:29:42,主世界,zhanlang2022z,-53,66,53,使用物品点击方块,minecraft:quartz_bricks,-60,65,53,使用物品： 类型：
+2023-03-23 04:29:50,主世界,zhanlang2022z,-54,73,46,使用物品点击方块,minecraft:bed,-54,70,44,使用物品： 类型：
+2023-03-23 04:29:50,主世界,zhanlang2022z,-54,73,46,方块接受玩家互动,minecraft:bed,-54,70,44,
+2023-03-23 04:29:59,,zhanlang2022z,,,,离开服务器,,,,,

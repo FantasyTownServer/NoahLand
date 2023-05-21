@@ -25,6 +25,7 @@
       "minecraft:can_ride_default": {
         "minecraft:rideable": {
           "seat_count": 1,
+          "passenger_max_width": 1.375,
           "interact_text": "action.interact.ride.boat",
           "pull_in_entities": true,
           "seats": [
@@ -41,6 +42,7 @@
       "minecraft:can_ride_bamboo": {
         "minecraft:rideable": {
           "seat_count": 1,
+          "passenger_max_width": 1.375,
           "interact_text": "action.interact.ride.boat",
           "pull_in_entities": true,
           "seats": [

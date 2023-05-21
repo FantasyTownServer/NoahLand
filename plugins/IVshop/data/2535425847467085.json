@@ -1,0 +1,38 @@
+{
+    "recycles": {
+        "describe": "",
+        "isopshop": false,
+        "ownerlang": "",
+        "ownername": "",
+        "recycleamount": 0,
+        "recyclecost": 0,
+        "recycleitems": null,
+        "shopitemicon": "",
+        "shopname": "",
+        "shopstate": null
+    },
+    "sell": {
+        "biditems": null,
+        "describe": "",
+        "isopshop": false,
+        "items": [
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:sweet_berries\",\"WasPickedUp\":0b,\"tag\":{\"RepairCost\":0,\"display\":{\"Name\":\"甜莓 1 0.6 0.1秒\"}}}",
+                "price": 1,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 0,
+                "shopitemname": "甜莓 1 0.6 1.6秒",
+                "shopitemtag": "sweet_berries"
+            }
+        ],
+        "ownerlang": "zh_CN",
+        "ownername": "xiaofen6666435",
+        "salesvolume": 58,
+        "sellcount": 58,
+        "shopdiscount": null,
+        "shopitemicon": "",
+        "shopname": "xiaofen6666435's shop",
+        "shopstate": null
+    }
+}

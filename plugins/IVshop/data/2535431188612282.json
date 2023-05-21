@@ -1,0 +1,92 @@
+{
+    "recycles": {
+        "describe": "",
+        "isopshop": false,
+        "ownerlang": "",
+        "ownername": "",
+        "recycleamount": 0,
+        "recyclecost": 0,
+        "recycleitems": null,
+        "shopitemicon": "",
+        "shopname": "",
+        "shopstate": null
+    },
+    "sell": {
+        "biditems": null,
+        "describe": "",
+        "isopshop": true,
+        "items": [
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"dp_foods_plus:ants_on_a_log\",\"WasPickedUp\":0b}",
+                "price": 120,
+                "shopitemdescribe": "蚂蚁上树",
+                "shopitemleftnum": 4096,
+                "shopitemname": "木头上的蚂蚁",
+                "shopitemtag": "ants_on_a_log"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:sugar_cane\",\"WasPickedUp\":0b}",
+                "price": 3,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 2147483647,
+                "shopitemname": "甘蔗",
+                "shopitemtag": "sugar_cane"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Block\":{\"name\":\"minecraft:white_wool\",\"states\":{},\"version\":18040335},\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:white_wool\",\"WasPickedUp\":0b}",
+                "price": 3,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 176425,
+                "shopitemname": "白色羊毛",
+                "shopitemtag": "white_wool"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:ender_pearl\",\"WasPickedUp\":0b}",
+                "price": 25,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 20000,
+                "shopitemname": "末影珍珠",
+                "shopitemtag": "ender_pearl"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:lodestone_compass\",\"WasPickedUp\":0b,\"tag\":{\"RepairCost\":0,\"display\":{\"Name\":\"黑洞帝国\"},\"trackingHandle\":14}}",
+                "price": 10000,
+                "shopitemdescribe": "黑洞帝国的指南针",
+                "shopitemleftnum": 999,
+                "shopitemname": "磁石指南针",
+                "shopitemtag": "lodestone_compass"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:snowball\",\"WasPickedUp\":0b}",
+                "price": 1,
+                "shopitemdescribe": "test",
+                "shopitemleftnum": 16,
+                "shopitemname": "雪球",
+                "shopitemtag": "snowball"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"pa:bigsword\",\"WasPickedUp\":0b,\"tag\":{\"Damage\":1,\"RepairCost\":31,\"ench\":[{\"id\":17s,\"lvl\":3s},{\"id\":13s,\"lvl\":2s},{\"id\":9s,\"lvl\":5s},{\"id\":14s,\"lvl\":3s},{\"id\":26s,\"lvl\":1s}]}}",
+                "price": 262188,
+                "shopitemdescribe": "暴击伤害105",
+                "shopitemleftnum": 1,
+                "shopitemname": "无敌",
+                "shopitemtag": "bigsword"
+            }
+        ],
+        "ownerlang": "zh_CN",
+        "ownername": "RichLi4307",
+        "salesvolume": 10045,
+        "sellcount": 16,
+        "shopdiscount": null,
+        "shopitemicon": "",
+        "shopname": "RichLi4307's shop",
+        "shopstate": null
+    }
+}

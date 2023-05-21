@@ -9,7 +9,7 @@
         "recycleitems": null,
         "shopitemicon": "",
         "shopname": "",
-        "shopstate": 0
+        "shopstate": null
     },
     "sell": {
         "biditems": null,
@@ -21,7 +21,7 @@
                 "itemnbt": "{\"Block\":{\"name\":\"minecraft:gold_block\",\"states\":{},\"version\":17959425},\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:gold_block\",\"WasPickedUp\":0b}",
                 "price": 450,
                 "shopitemdescribe": "",
-                "shopitemleftnum": 12,
+                "shopitemleftnum": 0,
                 "shopitemname": "金块",
                 "shopitemtag": "gold_block"
             },
@@ -30,15 +30,15 @@
                 "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:elytra\",\"WasPickedUp\":0b,\"tag\":{\"Damage\":56}}",
                 "price": 766,
                 "shopitemdescribe": "",
-                "shopitemleftnum": 1,
+                "shopitemleftnum": 0,
                 "shopitemname": "鞘翅 432",
                 "shopitemtag": "elytra"
             }
         ],
         "ownerlang": "zh_CN",
         "ownername": "AImon301",
-        "salesvolume": 0,
-        "sellcount": 0,
+        "salesvolume": 6166,
+        "sellcount": 13,
         "shopdiscount": null,
         "shopitemicon": "",
         "shopname": "AImon301's shop",

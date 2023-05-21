@@ -1,0 +1,86 @@
+[Crashed!]
+-- Unhandled Exception in -> bedrock_server_mod.exe
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function StackResultStorageEntity::StackResultStorageEntity at 0x7FF7FC20FBF0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC20FC38  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Logger::unlockImpl at 0x7FFD0D681D10  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD0D683DB8  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function <lambda_5478cd0ac89791b5579ee785b32a789a>::operator() at 0x7FF7FC23AFB0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC23C33D  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Translation::loadImpl at 0x7FFD0D6AB290  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD0D6B080A  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function Player::interact at 0x7FF7FCEEF250  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCEEF35B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function std::_Func_impl_no_alloc<<lambda_92d2186ac89907a6fc315367a6f22b08>,void>::_Do_call at 0x7FF7FD010910  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD0109EA  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Container::createTransactionContext at 0x7FF7FCFA1DD0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCFA1EB6  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function PlayerInventory::createTransactionContext at 0x7FF7FCF9D3F0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCF9D49B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function GameMode::interact at 0x7FF7FD012510  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD01260B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function std::_Func_impl_no_alloc<<lambda_ac38657eaf16e386cbe31288f6547f63>,void>::_Do_call at 0x7FF7FD37F6A0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD37F765  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Container::createTransactionContext at 0x7FF7FCFA1DD0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCFA1EB6  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function PlayerInventory::createTransactionContext at 0x7FF7FCF9D3F0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCF9D49B  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ItemUseOnActorInventoryTransaction::handle at 0x7FF7FD37F7C0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FD3809E0  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Translation::loadImpl at 0x7FFD0D6AB290  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD0D6AE76E  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function ServerNetworkHandler::handle at 0x7FF7FC3F0770  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC3F09C2  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Logger::unlockImpl at 0x7FFD0D681D10  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD0D68260C  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function Packet::handle at 0x7FF7FC603790  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6037AA  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function NetworkSystem::_sortAndPacketizeEvents at 0x7FF7FC400090  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC4005D7  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function <lambda_1403a6a118bcef59043f3d426e9f54e9>::operator() at 0x7FF7FC3FE990  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC3FEBD3  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function NetworkSystem::runEvents at 0x7FF7FC4024F0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC40261D  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function Minecraft::update at 0x7FF7FCE6D450  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FCE6E741  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function ServerInstance::_update at 0x7FF7FC6ABF10  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6AC002  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function <lambda_f2e707221d48fb1510572c959b70280b>::operator() at 0x7FF7FC6AA2D0  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6AA797  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function std::thread::_Invoke<std::tuple<<lambda_f2e707221d48fb1510572c959b70280b> >,0> at 0x7FF7FC6A6650  [bedrock_server_mod.exe<1.19.72.01>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FF7FC6A665E  [bedrock_server_mod.exe<1.19.72.01>]
+[StackTrace] Function recalloc at 0x7FFD2BC76AF0  [ucrtbase.dll<10.0.20348.1>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD2BC76B4C  [ucrtbase.dll<10.0.20348.1>]
+[StackTrace] Function BaseThreadInitThunk at 0x7FFD4B3F4EC0  [KERNEL32.DLL<10.0.20348.469>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD4B3F4ED0  [KERNEL32.DLL<10.0.20348.469>]
+[StackTrace] Function RtlUserThreadStart at 0x7FFD518FE3E0  [ntdll.dll<6.2.20348.1129>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD518FE40B  [ntdll.dll<6.2.20348.1129>]

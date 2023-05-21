@@ -395,6 +395,9 @@ SOFTWARE.
 cjs.js end
 */
 
+globalThis.exports = {};
+globalThis.module = { exports: {} };
+
 /*
 For Compatibility
 */
@@ -411,3 +414,5 @@ globalThis.LXL_CustomForm = LLSE_CustomForm;
 globalThis.LXL_Item = LLSE_Item;
 globalThis.LXL_Player = LLSE_Player;
 globalThis.LXL_Objective = LLSE_Objective;
+ll.export = ll.exports;
+ll.import = ll.imports;

@@ -1,0 +1,10 @@
+[Crashed!]
+-- Unhandled Exception in -> LiteLoader.dll
+-- Exception Code: 0xC0000005
+-- C++ STL Exception detected!
+
+[StackTrace] Function CommandOrigin::getPlayer at 0x7FFD0060B010  [LiteLoader.dll<2.12.0.0>]
+-- At File (null) : Line 0 
+[StackTrace] Function ???????? at 0x7FFD0060B016  [LiteLoader.dll<2.12.0.0>]
+[StackTrace] Function ???????? at 0x7FFD1E3AD7DF  []
+[StackTrace] Function ???????? at 0xA5D9FE620  []

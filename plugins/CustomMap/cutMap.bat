@@ -1,1 +1,0 @@
-"./_cv2/Scripts/python.exe" cutMap.py

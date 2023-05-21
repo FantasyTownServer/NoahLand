@@ -6,7 +6,7 @@
     "enablesystemshopinglobalshop": false,
     "extraslotcost": 500,
     "maxfreeslot": 36,
-    "moneymode": 1,
+    "moneymode": 0,
     "scoremoneyname": "money",
     "tax": 0
 }
