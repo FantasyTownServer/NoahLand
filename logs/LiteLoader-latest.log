@@ -1,199 +1,75 @@
-[2023-05-21 11:36:12 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
-[2023-05-21 11:36:12 INFO][LiteLoader] 解包完毕。
-[2023-05-21 11:36:12 INFO][LiteLoader] 加载原生插件...
-[2023-05-21 11:36:12 INFO][LiteLoader] 原生插件 <BanExplosion.dll> 已加载
-[2023-05-21 11:36:12 INFO][LiteLoader] 原生插件 <BetterStop.dll> 已加载
-[2023-05-21 11:36:12 INFO][LiteLoader] 原生插件 <IVshop.dll> 已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] 原生插件 <LLAntiCheat.dll> 已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] * Js 脚本引擎已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] * Lua 脚本引擎已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] * NodeJs 脚本引擎已加载
-[2023-05-21 11:36:14 INFO][LiteLoader] * Python 脚本引擎已加载
-[2023-05-21 11:36:15 INFO][LiteLoader] 已加载 5 个原生插件
-[2023-05-21 11:36:15 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
-[2023-05-21 11:36:15 INFO][Server] Starting Server
-[2023-05-21 11:36:15 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.1+13d598e[0m
-[2023-05-21 11:36:15 INFO][Server] Session ID 29baf259-2bb6-4e4d-a943-4969c2670a45
-[2023-05-21 11:36:15 INFO][Server] Build ID 1.19.81
-[2023-05-21 11:36:15 INFO][Server] Branch r/19_u8
-[2023-05-21 11:36:15 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
-[2023-05-21 11:36:15 INFO][Server] Configuration Publish
-[2023-05-21 11:36:15 INFO][Server] Level Name: Bedrock level
-[2023-05-21 11:36:15 INFO][Server] Game mode: 0 Survival
-[2023-05-21 11:36:15 INFO][Server] Difficulty: 3 HARD
-[2023-05-21 11:36:15 INFO][Server] Experiment(s) active: ddi_, biom, ucft, gtst, mola, CnC_, wld_, spct, VE__, scpt
-[2023-05-21 11:36:15 INFO][Server] opening worlds/Bedrock level/db
-[2023-05-21 11:36:32 INFO][Server] IPv4 supported, port: 27065: Used for gameplay and LAN discovery
-[2023-05-21 11:36:32 INFO][Server] IPv6 supported, port: 65535: Used for gameplay
-[2023-05-21 11:36:37 ERROR][LiteLoader] Uncaught C++ Exception Detected!
-[2023-05-21 11:36:37 ERROR][LiteLoader] Error: Code [2] There is already a command named ban
-[2023-05-21 11:36:37 ERROR][LiteLoader] In Event (class Event::RegCmdEvent)
-[2023-05-21 11:36:37 ERROR][LiteLoader] In Plugin <ScriptEngine-QuickJs 2.13.1>
-[2023-05-21 11:36:37 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
-[2023-05-21 11:36:37 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
-[2023-05-21 11:36:37 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
-[2023-05-21 11:36:37 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
-[2023-05-21 11:36:37 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
-[2023-05-21 11:36:37 INFO][Server] Player Spawned: Noahland109 xuid: -16337868055100143286
-[2023-05-21 11:45:17 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 11:45:22 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 11:46:24 INFO][Server] Player removed from allowlist
-[2023-05-21 11:46:50 INFO][Server] Player added to allowlist
-[2023-05-21 12:27:19 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-21 12:42:01 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 12:42:05 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 12:43:05 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-21 13:25:17 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 13:25:21 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 14:03:59 INFO][Chat] <Milehan> 有人吗？
-[2023-05-21 14:40:28 INFO][Server] Player connected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 14:40:34 INFO][Server] Player Spawned: xiaofen6666435 xuid: 2535425847467085
-[2023-05-21 14:41:09 INFO][Server] Player Spawned: Noahland109 xuid: -18170791004285418323
-[2023-05-21 14:41:17 INFO][Server] Player Spawned: Noahland109 xuid: -6846844760106220539
-[2023-05-21 14:41:21 INFO][Server] Player Spawned: Noahland109 xuid: -3757015188086094413
-[2023-05-21 14:41:24 INFO][Server] Player Spawned: Noahland109 xuid: -16972735529762493400
-[2023-05-21 14:41:27 INFO][Server] Player Spawned: Noahland109 xuid: -15980341652934430597
-[2023-05-21 14:41:30 INFO][Server] Player Spawned: Noahland109 xuid: -18260231092989940258
-[2023-05-21 14:41:33 INFO][Server] Player Spawned: Noahland109 xuid: -276586405292166494
-[2023-05-21 14:41:37 INFO][Server] Player Spawned: Noahland109 xuid: -14755994670860577920
-[2023-05-21 14:41:41 INFO][Server] Player Spawned: Noahland109 xuid: -7085868472952225849
-[2023-05-21 14:42:10 INFO][Server] Player Spawned: Noahland109 xuid: -10256566578735100109
-[2023-05-21 14:42:15 INFO][Server] Player Spawned: Noahland109 xuid: -3411203401600680853
-[2023-05-21 14:42:32 INFO][Server] Player Spawned: Noahland109 xuid: -6170016811968406589
-[2023-05-21 14:43:32 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-21 14:43:43 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 14:43:47 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 14:43:59 INFO][Command] <xiaofen6666435> /fpc
-[2023-05-21 14:44:39 INFO][Server] Player Spawned: Noahland109 xuid: -1401975019133259531
-[2023-05-21 14:44:47 INFO][Chat] <xiaofen6666435> 坤仔凋零战场了
-[2023-05-21 14:44:53 INFO][Server] Player Spawned: Noahland109 xuid: -8527240422404688837
-[2023-05-21 14:45:11 INFO][Server] Player Spawned: Noahland109 xuid: -8555233431886119851
-[2023-05-21 14:46:07 INFO][Command] <xiaofen6666435> /perm
-[2023-05-21 14:46:21 INFO][Server] Player Spawned: Noahland109 xuid: -376191160709750341
-[2023-05-21 14:46:36 INFO][Chat] <Milehan> 哇，他为什么一直被你杀
-[2023-05-21 14:46:57 INFO][Chat] <xiaofen6666435> 机器人
-[2023-05-21 14:47:08 INFO][Server] Player Spawned: Noahland109 xuid: -11338760201670008183
-[2023-05-21 14:47:12 INFO][Server] Player Spawned: Noahland109 xuid: -15191819346239268552
-[2023-05-21 14:47:17 INFO][Server] Player Spawned: Noahland109 xuid: -11801069752642658354
-[2023-05-21 14:47:20 INFO][Chat] <Milehan> 那你菜单还在吗？
-[2023-05-21 14:47:23 INFO][Server] Player Spawned: Noahland109 xuid: -10712212478278697921
-[2023-05-21 14:47:29 INFO][Chat] <xiaofen6666435> 不在
-[2023-05-21 14:47:54 INFO][Command] <xiaofen6666435> /Ivshop buy
-[2023-05-21 14:48:16 INFO][Chat] <Milehan> 这里的匠魂是真的完全不能用？
-[2023-05-21 14:49:08 INFO][Server] Player Spawned: Noahland109 xuid: -339111505278628199
-[2023-05-21 14:49:11 INFO][Server] Player Spawned: Noahland109 xuid: -13658250031539392750
-[2023-05-21 14:49:14 INFO][Server] Player Spawned: Noahland109 xuid: -2118099222392017230
-[2023-05-21 14:49:17 INFO][Server] Player Spawned: Noahland109 xuid: -9429403903336593098
-[2023-05-21 14:49:21 INFO][Server] Player Spawned: Noahland109 xuid: -17292172594225017391
-[2023-05-21 14:49:25 INFO][Server] Player Spawned: Noahland109 xuid: -3517709834858185428
-[2023-05-21 14:49:29 INFO][Server] Player Spawned: Noahland109 xuid: -9366010622740040177
-[2023-05-21 14:49:33 INFO][Server] Player Spawned: Noahland109 xuid: -10633156441052257224
-[2023-05-21 14:49:36 INFO][Server] Player Spawned: Noahland109 xuid: -301505225750478142
-[2023-05-21 14:50:08 INFO][Server] Player Spawned: Noahland109 xuid: -16706419909278039329
-[2023-05-21 14:50:56 INFO][Server] Player Spawned: Noahland109 xuid: -18107371240538472625
-[2023-05-21 14:51:34 INFO][Command] <xiaofen6666435> /prem
-[2023-05-21 14:52:10 INFO][Command] <xiaofen6666435> /perm 11111111111111      
-[2023-05-21 14:52:21 INFO][Server] Player Spawned: Noahland109 xuid: -10205049025422191684
-[2023-05-21 14:52:24 INFO][Server] Player Spawned: Noahland109 xuid: -6460673137207011458
-[2023-05-21 14:52:29 INFO][Server] Player Spawned: Noahland109 xuid: -12015427638541932492
-[2023-05-21 14:52:32 INFO][Server] Player Spawned: Noahland109 xuid: -406223023874311817
-[2023-05-21 14:52:36 INFO][Server] Player Spawned: Noahland109 xuid: -10016491417306494366
-[2023-05-21 14:53:01 INFO][Server] Player Spawned: Noahland109 xuid: -14715399904175592864
-[2023-05-21 14:53:07 INFO][Server] Player Spawned: Noahland109 xuid: -1879690043299627348
-[2023-05-21 14:53:13 INFO][Server] Player Spawned: Noahland109 xuid: -10522117559327777574
-[2023-05-21 14:53:19 INFO][Server] Player Spawned: Noahland109 xuid: -13369193205117560721
-[2023-05-21 14:53:25 INFO][Server] Player Spawned: Noahland109 xuid: -15925423661027070995
-[2023-05-21 14:53:32 INFO][Command] <xiaofen6666435> /menu
-[2023-05-21 14:53:38 INFO][Server] Player Spawned: Noahland109 xuid: -14239652568177326208
-[2023-05-21 14:53:44 INFO][Server] Player Spawned: Noahland109 xuid: -18309894907057224787
-[2023-05-21 14:53:49 INFO][Server] Player Spawned: Noahland109 xuid: -1252476525435543062
-[2023-05-21 14:53:54 INFO][Server] Player Spawned: Noahland109 xuid: -17185971679900229975
-[2023-05-21 14:53:54 INFO][Server] Player disconnected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 14:54:05 INFO][Server] Player connected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 14:54:11 INFO][Server] Player Spawned: xiaofen6666435 xuid: 2535425847467085
-[2023-05-21 14:54:54 INFO][Chat] <Milehan> 啊，无聊
-[2023-05-21 14:55:14 INFO][Command] <xiaofen6666435> /ivshop buy
-[2023-05-21 14:55:39 INFO][Chat] <xiaofen6666435> 漂亮
-[2023-05-21 14:55:56 INFO][Chat] <Milehan> 什么漂亮
-[2023-05-21 14:56:05 INFO][Chat] <xiaofen6666435> 商店有珍珠，但是没钱
-[2023-05-21 14:56:32 INFO][Chat] <Milehan> 你有菜单
-[2023-05-21 14:56:39 INFO][Chat] <xiaofen6666435> 没有
-[2023-05-21 14:56:44 INFO][Chat] <xiaofen6666435> 指令开
-[2023-05-21 14:56:48 INFO][Chat] <Milehan> 那怎么去商店
-[2023-05-21 14:56:54 INFO][Chat] <xiaofen6666435> ivshop buy
-[2023-05-21 14:57:00 INFO][Chat] <xiaofen6666435> 前面加个斜杠
-[2023-05-21 14:57:50 INFO][Command] <Milehan> /ivshop buy
-[2023-05-21 14:58:05 INFO][Command] <xiaofen6666435> /fpc gui
-[2023-05-21 14:58:24 INFO][Command] <xiaofen6666435> /fpc help
-[2023-05-21 14:58:34 INFO][Command] <Milehan> /ivshop buy
-[2023-05-21 14:59:14 INFO][Command] <xiaofen6666435> /list
-[2023-05-21 14:59:34 INFO][Command] <xiaofen6666435> /perm help
-[2023-05-21 14:59:50 INFO][Server] Player Spawned: Noahland109 xuid: -1242289534573525243
-[2023-05-21 14:59:50 INFO][Chat] <Milehan> 这服务器能玩红石吗
-[2023-05-21 14:59:55 INFO][Server] Player Spawned: Noahland109 xuid: -8530370020226583936
-[2023-05-21 14:59:59 INFO][Server] Player Spawned: Noahland109 xuid: -5157834718508067448
-[2023-05-21 15:00:06 INFO][Server] Player Spawned: Noahland109 xuid: -14175920977305997922
-[2023-05-21 15:00:10 INFO][Server] Player Spawned: Noahland109 xuid: -4418256066186639404
-[2023-05-21 15:01:15 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-21 15:02:33 INFO][Server] Player Spawned: Noahland109 xuid: -1560321903361402978
-[2023-05-21 15:03:30 INFO][Server] Player Spawned: Noahland109 xuid: -847846030497306569
-[2023-05-21 15:03:56 INFO][Chat] <xiaofen6666435> 感觉要崩
-[2023-05-21 15:04:13 INFO][Server] Player Spawned: Noahland109 xuid: -5532910765347048182
-[2023-05-21 15:04:24 INFO][Chat] <xiaofen6666435> 啊啊
-[2023-05-21 15:04:47 INFO][Chat] <xiaofen6666435> 居然把我附魔经验修补的三叉戟捡了
-[2023-05-21 15:04:53 INFO][Chat] <xiaofen6666435> 补偿给的
-[2023-05-21 15:04:58 INFO][Chat] <xiaofen6666435> 机器人剪了
-[2023-05-21 15:05:04 INFO][Server] Player Spawned: Noahland109 xuid: -5145569772751755606
-[2023-05-21 15:05:09 INFO][Server] Player Spawned: Noahland109 xuid: -11722462108957474412
-[2023-05-21 15:05:15 INFO][Server] Player Spawned: Noahland109 xuid: -1586556407179511681
-[2023-05-21 15:05:21 INFO][Server] Player Spawned: Noahland109 xuid: -5897379541074688952
-[2023-05-21 15:05:26 INFO][Server] Player Spawned: Noahland109 xuid: -811890148805187479
-[2023-05-21 15:05:31 INFO][Server] Player Spawned: Noahland109 xuid: -13542629353202062342
-[2023-05-21 15:05:36 INFO][Server] Player Spawned: Noahland109 xuid: -4839079916357028464
-[2023-05-21 15:05:41 INFO][Server] Player Spawned: Noahland109 xuid: -3672210294793426465
-[2023-05-21 15:05:47 INFO][Server] Player Spawned: Noahland109 xuid: -15354946118639303697
-[2023-05-21 15:08:19 INFO][Command] <xiaofen6666435> /ivshop formmenu
-[2023-05-21 15:09:10 INFO][Command] <xiaofen6666435> /ivshop ivmenu
-[2023-05-21 15:09:47 INFO][Command] <xiaofen6666435> /ivshop mainmenu
-[2023-05-21 15:10:52 INFO][Command] <xiaofen6666435> /ivshop u
-[2023-05-21 15:11:09 INFO][Command] <xiaofen6666435> /ivshop rebyshop
-[2023-05-21 15:12:00 INFO][Server] Player Spawned: Noahland109 xuid: -3931535137599073804
-[2023-05-21 15:13:09 INFO][Command] <xiaofen6666435> /ivshop filter
-[2023-05-21 15:13:26 INFO][Server] Player Spawned: Noahland109 xuid: -13360328056213108054
-[2023-05-21 15:13:33 INFO][Server] Player Spawned: Noahland109 xuid: -14139044656092271883
-[2023-05-21 15:13:39 INFO][Server] Player Spawned: Noahland109 xuid: -4711686475130631186
-[2023-05-21 15:13:45 INFO][Server] Player Spawned: Noahland109 xuid: -5004745004566526272
-[2023-05-21 15:13:51 INFO][Server] Player Spawned: Noahland109 xuid: -12637722256030921828
-[2023-05-21 15:13:57 INFO][Server] Player Spawned: Noahland109 xuid: -15341875081634928627
-[2023-05-21 15:14:03 INFO][Server] Player Spawned: Noahland109 xuid: -5098232064477988285
-[2023-05-21 15:14:09 INFO][Server] Player Spawned: Noahland109 xuid: -893037338198287913
-[2023-05-21 15:14:16 INFO][Server] Player Spawned: Noahland109 xuid: -10484121456649079732
-[2023-05-21 15:14:22 INFO][Server] Player Spawned: Noahland109 xuid: -10783220360326682464
-[2023-05-21 15:14:28 INFO][Server] Player Spawned: Noahland109 xuid: -7530517502002918578
-[2023-05-21 15:14:47 INFO][Command] <xiaofen6666435> /money add
-[2023-05-21 15:14:54 INFO][Chat] <xiaofen6666435> mone
-[2023-05-21 15:15:13 INFO][Command] <xiaofen6666435> /money set 1
-[2023-05-21 15:15:22 INFO][Server] Player Spawned: Noahland109 xuid: -3446282682554241751
-[2023-05-21 15:16:03 INFO][Server] Player Spawned: Noahland109 xuid: -13497854130676704778
-[2023-05-21 15:18:49 INFO][Server] Player Spawned: Noahland109 xuid: -16607399891258673166
-[2023-05-21 15:18:49 INFO][Server] Player disconnected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 15:35:05 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 15:35:10 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 16:15:12 INFO][Server] Player connected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 16:15:18 INFO][Server] Player Spawned: xiaofen6666435 xuid: 2535425847467085
-[2023-05-21 16:18:33 INFO][Server] Player disconnected: xiaofen6666435, xuid: 2535425847467085
-[2023-05-21 16:42:07 INFO][Command] <Milehan> /fpc
-[2023-05-21 16:42:33 INFO][Command] <Milehan> /ivshop buy
-[2023-05-21 17:40:52 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-21 17:41:50 INFO][Server] Player connected: Milehan, xuid: 2535454513795804
-[2023-05-21 17:41:55 INFO][Server] Player Spawned: Milehan xuid: 2535454513795804
-[2023-05-21 18:25:28 INFO][Server] Player connected: tao202342, xuid: 2535421775058899
-[2023-05-21 18:25:38 INFO][Server] Player Spawned: tao202342 xuid: 2535421775058899
-[2023-05-21 18:28:38 INFO][Server] Player disconnected: tao202342, xuid: 2535421775058899
-[2023-05-21 18:32:32 INFO][Server] Player disconnected: Milehan, xuid: 2535454513795804
-[2023-05-22 01:14:22 INFO][Server] Player Spawned: Noahland109 xuid: -16435956695620959189
-[2023-05-22 01:43:02 ERROR][Server] 未知的命令：a。请检查命令是否存在，以及您对它是否拥有使用权限。
-[2023-05-22 01:43:03 ERROR][Server] 未知的命令：a。请检查命令是否存在，以及您对它是否拥有使用权限。
-[2023-05-22 01:43:04 ERROR][Server] 未知的命令：a。请检查命令是否存在，以及您对它是否拥有使用权限。
-[2023-05-22 01:46:13 ERROR][Server] 未知的命令：a。请检查命令是否存在，以及您对它是否拥有使用权限。
+[2023-05-26 23:26:31 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
+[2023-05-26 23:26:31 INFO][LiteLoader] 解包完毕。
+[2023-05-26 23:26:32 INFO][LiteLoader] 加载原生插件...
+[2023-05-26 23:26:32 INFO][LiteLoader] 原生插件 <BanExplosion.dll> 已加载
+[2023-05-26 23:26:32 INFO][LiteLoader] 原生插件 <BetterStop.dll> 已加载
+[2023-05-26 23:26:32 INFO][LiteLoader] 原生插件 <IVshop.dll> 已加载
+[2023-05-26 23:26:34 INFO][LiteLoader] 原生插件 <LLAntiCheat.dll> 已加载
+[2023-05-26 23:26:34 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
+[2023-05-26 23:26:34 INFO][LiteLoader] * Js 脚本引擎已加载
+[2023-05-26 23:26:34 INFO][LiteLoader] * Lua 脚本引擎已加载
+[2023-05-26 23:26:37 INFO][LiteLoader] * NodeJs 脚本引擎已加载
+[2023-05-26 23:26:37 INFO][LiteLoader] * Python 脚本引擎已加载
+[2023-05-26 23:26:37 INFO][LiteLoader] 已加载 5 个原生插件
+[2023-05-26 23:26:37 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
+[2023-05-26 23:26:37 INFO][Server] Starting Server
+[2023-05-26 23:26:37 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.1+13d598e[0m
+[2023-05-26 23:26:37 INFO][Server] Session ID f4db6cdc-b459-4333-874a-5e8969b0ec53
+[2023-05-26 23:26:37 INFO][Server] Build ID 1.19.81
+[2023-05-26 23:26:37 INFO][Server] Branch r/19_u8
+[2023-05-26 23:26:37 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
+[2023-05-26 23:26:37 INFO][Server] Configuration Publish
+[2023-05-26 23:26:37 INFO][Server] Level Name: Bedrock level
+[2023-05-26 23:26:37 INFO][Server] Game mode: 0 Survival
+[2023-05-26 23:26:37 INFO][Server] Difficulty: 3 HARD
+[2023-05-26 23:26:38 INFO][Server] Experiment(s) active: ddi_, biom, ucft, gtst, mola, CnC_, wld_, spct, VE__, scpt
+[2023-05-26 23:26:38 INFO][Server] opening worlds/Bedrock level/db
+[2023-05-26 23:28:21 INFO][Server] IPv4 supported, port: 27065: Used for gameplay and LAN discovery
+[2023-05-26 23:28:21 INFO][Server] IPv6 supported, port: 65535: Used for gameplay
+[2023-05-26 23:28:30 ERROR][LiteLoader] Uncaught C++ Exception Detected!
+[2023-05-26 23:28:30 ERROR][LiteLoader] Error: Code [2] There is already a command named ban
+[2023-05-26 23:28:30 ERROR][LiteLoader] In Event (class Event::RegCmdEvent)
+[2023-05-26 23:28:30 ERROR][LiteLoader] In Plugin <ScriptEngine-QuickJs 2.13.1>
+[2023-05-26 23:28:30 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
+[2023-05-26 23:28:30 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
+[2023-05-26 23:28:30 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
+[2023-05-26 23:28:30 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
+[2023-05-26 23:28:30 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-05-26 23:28:30 INFO][Server] Player Spawned: Noahland109 xuid: -16741114116502118114
+[2023-05-26 23:29:31 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-05-26 23:29:37 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-05-26 23:30:27 INFO][Server] Player connected: xiaofen6666435, xuid: 2535425847467085
+[2023-05-26 23:30:32 INFO][Server] Player Spawned: xiaofen6666435 xuid: 2535425847467085
+[2023-05-26 23:32:00 INFO][Chat] <xiaofen6666435> ( *ˊᵕˋ)✩︎‧₊
+[2023-05-26 23:32:14 INFO][Chat] <RichLi4307> 我打算弄点新手引导。
+[2023-05-26 23:32:19 INFO][Chat] <RichLi4307> 你有空帮我写一下吗？
+[2023-05-26 23:32:30 INFO][Chat] <RichLi4307> 用书和羽毛写
+[2023-05-26 23:32:39 INFO][Command] <RichLi4307> /tp xiaofen6666435 
+[2023-05-26 23:32:59 INFO][Command] <RichLi4307> /tp xiaofen6666435 
+[2023-05-26 23:33:21 INFO][Chat] <RichLi4307> 我打算弄点新手引导，你有空帮我写一下吗？
+[2023-05-26 23:33:30 INFO][Chat] <RichLi4307> 用书和羽毛写
+[2023-05-26 23:33:46 INFO][Chat] <xiaofen6666435> 有点
+[2023-05-26 23:33:52 INFO][Chat] <xiaofen6666435> 困难
+[2023-05-26 23:34:01 INFO][Chat] <xiaofen6666435> 简单一点的话就写4个木头制作工作台
+[2023-05-26 23:34:56 INFO][Command] <RichLi4307> /fpc offlineall
+[2023-05-26 23:35:16 INFO][Server] Player connected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:35:34 INFO][Server] Player Spawned: LodgedSphinx459 xuid: 2535407922359972
+[2023-05-26 23:35:46 INFO][Chat] <RichLi4307> 来打凋零？
+[2023-05-26 23:35:50 INFO][Server] Player disconnected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:37:53 INFO][Command] <RichLi4307> /tp xiaofen6666435 
+[2023-05-26 23:38:38 INFO][Server] Player connected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:38:44 INFO][Server] Player Spawned: LodgedSphinx459 xuid: 2535407922359972
+[2023-05-26 23:39:24 INFO][Command] <RichLi4307> /tp LodgedSphinx459 
+[2023-05-26 23:41:42 INFO][Chat] <RichLi4307> ？
+[2023-05-26 23:42:05 INFO][Chat] <LodgedSphinx459> 点错了 别在意
+[2023-05-26 23:42:52 INFO][Server] Player disconnected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:44:33 INFO][Server] Player connected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:44:39 INFO][Server] Player Spawned: LodgedSphinx459 xuid: 2535407922359972
+[2023-05-26 23:45:56 INFO][Server] Player disconnected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:48:12 INFO][Chat] <RichLi4307> 芜湖
+[2023-05-26 23:48:47 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-05-26 23:58:00 INFO][Server] Player connected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:58:05 INFO][Server] Player Spawned: LodgedSphinx459 xuid: 2535407922359972
+[2023-05-26 23:58:51 INFO][Server] Player disconnected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:59:21 INFO][Server] Player connected: LodgedSphinx459, xuid: 2535407922359972
+[2023-05-26 23:59:26 INFO][Server] Player Spawned: LodgedSphinx459 xuid: 2535407922359972

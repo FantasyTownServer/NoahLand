@@ -4,8 +4,8 @@
         "isopshop": false,
         "ownerlang": "zh_CN",
         "ownername": "",
-        "recycleamount": 5998,
-        "recyclecost": 208610,
+        "recycleamount": 6004,
+        "recyclecost": 748610,
         "recycleitems": [
             {
                 "allowbesearched": true,
@@ -213,11 +213,13 @@
                 "filterench": false,
                 "filteritemnbt": false,
                 "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:netherite_ingot\",\"WasPickedUp\":0b}",
-                "nowhasrecyclenum": 0,
+                "nowhasrecyclenum": 6,
                 "offer": 90000,
-                "recycleditemnbtlist": [],
+                "recycleditemnbtlist": [
+                    "{\"Count\":6b,\"Damage\":0s,\"Name\":\"minecraft:netherite_ingot\",\"WasPickedUp\":0b}"
+                ],
                 "recycleitemdescribe": "",
-                "recycleitemleftwanna": 9999999,
+                "recycleitemleftwanna": 9999993,
                 "recycleitemname": "下界合金锭",
                 "recycleitemtag": "netherite_ingot"
             },
@@ -657,8 +659,8 @@
         ],
         "ownerlang": "zh_CN",
         "ownername": "",
-        "salesvolume": 119888,
-        "sellcount": 465,
+        "salesvolume": 159177,
+        "sellcount": 1140,
         "shopdiscount": null,
         "shopitemicon": "",
         "shopname": "系统商店",
