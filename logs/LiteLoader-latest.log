@@ -1,0 +1,40 @@
+[2023-05-28 15:01:30 INFO][LiteLoader] 正在解包LiteLoaderBDS运行时资源，请耐心等待...
+[2023-05-28 15:01:30 INFO][LiteLoader] 解包完毕。
+[2023-05-28 15:01:30 INFO][LiteLoader] 加载原生插件...
+[2023-05-28 15:01:30 INFO][LiteLoader] 原生插件 <BanExplosion.dll> 已加载
+[2023-05-28 15:01:30 INFO][LiteLoader] 原生插件 <BetterStop.dll> 已加载
+[2023-05-28 15:01:30 INFO][LiteLoader] 原生插件 <IVshop.dll> 已加载
+[2023-05-28 15:01:32 INFO][LiteLoader] 原生插件 <LLAntiCheat.dll> 已加载
+[2023-05-28 15:01:32 INFO][LiteLoader] 原生插件 <LLMoney.dll> 已加载
+[2023-05-28 15:01:32 INFO][LiteLoader] * Js 脚本引擎已加载
+[2023-05-28 15:01:32 INFO][LiteLoader] * Lua 脚本引擎已加载
+[2023-05-28 15:01:37 INFO][LiteLoader] * NodeJs 脚本引擎已加载
+[2023-05-28 15:01:37 INFO][LiteLoader] * Python 脚本引擎已加载
+[2023-05-28 15:01:37 INFO][LiteLoader] 已加载 5 个原生插件
+[2023-05-28 15:01:37 INFO][bStats] bStats已启用，你可以通过编辑 plugins/bStats/config.json 来禁用它
+[2023-05-28 15:01:37 INFO][Server] Starting Server
+[2023-05-28 15:01:37 INFO][Server] Version 1.19.81.01(ProtocolVersion 582) with [1m[3m[38;2;135;206;250mLiteLoaderBDS 2.13.1+13d598e[0m
+[2023-05-28 15:01:37 INFO][Server] Session ID 6005cbaf-8513-409b-a203-896e4f1474a1
+[2023-05-28 15:01:37 INFO][Server] Build ID 1.19.81
+[2023-05-28 15:01:37 INFO][Server] Branch r/19_u8
+[2023-05-28 15:01:37 INFO][Server] Commit ID 2606f6a1a1e3ecf907cb776d138dac765c5ba3ff
+[2023-05-28 15:01:37 INFO][Server] Configuration Publish
+[2023-05-28 15:01:37 INFO][Server] Level Name: Bedrock level
+[2023-05-28 15:01:37 INFO][Server] Game mode: 0 Survival
+[2023-05-28 15:01:37 INFO][Server] Difficulty: 3 HARD
+[2023-05-28 15:01:38 INFO][Server] Experiment(s) active: ddi_, biom, ucft, gtst, mola, CnC_, wld_, spct, VE__, scpt
+[2023-05-28 15:01:38 INFO][Server] opening worlds/Bedrock level/db
+[2023-05-28 15:03:37 INFO][Server] IPv4 supported, port: 27065: Used for gameplay and LAN discovery
+[2023-05-28 15:03:37 INFO][Server] IPv6 supported, port: 65535: Used for gameplay
+[2023-05-28 15:03:47 ERROR][LiteLoader] Uncaught C++ Exception Detected!
+[2023-05-28 15:03:47 ERROR][LiteLoader] Error: Code [2] There is already a command named ban
+[2023-05-28 15:03:47 ERROR][LiteLoader] In Event (class Event::RegCmdEvent)
+[2023-05-28 15:03:47 ERROR][LiteLoader] In Plugin <ScriptEngine-QuickJs 2.13.1>
+[2023-05-28 15:03:47 INFO][LiteLoader] Repository: https://github.com/LiteLDev/LiteLoaderBDS
+[2023-05-28 15:03:47 INFO][LiteLoader] LiteLoader采用 LGPLv3 许可证开源
+[2023-05-28 15:03:47 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
+[2023-05-28 15:03:47 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
+[2023-05-28 15:03:47 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-05-28 15:12:30 ERROR][Server] 上一个保存尚未完成。
+[2023-05-28 15:12:31 ERROR][Server] 未知的命令：。请检查命令是否存在，以及您对它是否拥有使用权限。
+[2023-05-28 17:59:55 INFO][Server] 保存中……
