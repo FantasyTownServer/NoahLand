@@ -38,3 +38,45 @@
 [2023-06-04 05:59:59 INFO][Server] 保存中……
 [2023-06-04 11:59:55 ERROR][Server] 命令已在运行
 [2023-06-04 17:59:55 ERROR][Server] 命令已在运行
+[2023-06-04 21:39:47 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 21:41:00 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-04 21:48:05 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 21:48:46 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 21:48:51 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-04 23:19:59 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 23:22:34 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-04 23:22:43 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-04 23:23:13 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 23:23:18 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-04 23:24:06 INFO][Chat] <Tianyi5881> tp我啦～
+[2023-06-04 23:24:27 INFO][Command] <RichLi4307> /tp -1011 -55 -613
+[2023-06-04 23:24:28 INFO][Chat] <Tianyi5881> 这一会，4只僵尸了
+[2023-06-04 23:24:45 INFO][Chat] <Tianyi5881> az
+[2023-06-04 23:24:48 INFO][Command] <RichLi4307> /tp Tianyi5881 
+[2023-06-04 23:25:04 INFO][Chat] <Tianyi5881> 上面是一个僵尸笼子
+[2023-06-04 23:25:26 INFO][Chat] <RichLi4307> 我手头没工具
+[2023-06-04 23:25:35 INFO][Chat] <RichLi4307> 先回去拿
+[2023-06-04 23:25:40 INFO][Chat] <Tianyi5881> 嗯
+[2023-06-04 23:26:12 INFO][Chat] <Tianyi5881> 说来好玩
+[2023-06-04 23:26:23 INFO][Chat] <Tianyi5881> 我本来是想下来弄美西螈来着
+[2023-06-04 23:26:50 INFO][Chat] <Tianyi5881> 但是想起来这个并且经验不够于是就改了下
+[2023-06-04 23:26:57 INFO][Command] <RichLi4307> /tp Tianyi5881 
+[2023-06-04 23:27:10 INFO][Chat] <Tianyi5881> 效率还可以吧～
+[2023-06-04 23:27:22 INFO][Chat] <RichLi4307> 很高了
+[2023-06-04 23:27:31 INFO][Chat] <RichLi4307> 再弄几个村民做刷铁机（雾）
+[2023-06-04 23:27:44 INFO][Chat] <Tianyi5881> 在java版的某个服里建多了，太多了
+[2023-06-04 23:27:54 INFO][Chat] <Tianyi5881> 给你说个冷知识，听不
+[2023-06-04 23:28:00 INFO][Chat] <RichLi4307> 随便说
+[2023-06-04 23:28:02 INFO][Chat] <Tianyi5881> 关于交易所的
+[2023-06-04 23:28:20 INFO][Chat] <Tianyi5881> 在僵尸笼子附近建造交易所
+[2023-06-04 23:28:33 INFO][Chat] <Tianyi5881> 每刷出一只僵尸村民
+[2023-06-04 23:28:49 INFO][Chat] <Tianyi5881> 村民交易表，价格-1
+[2023-06-04 23:29:02 INFO][Chat] <RichLi4307> 挺不错
+[2023-06-04 23:29:14 INFO][Chat] <RichLi4307> 可惜刷新率太低
+[2023-06-04 23:29:15 INFO][Chat] <Tianyi5881> 但是我村民不知道怎么没了qwq
+[2023-06-04 23:29:21 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 23:29:46 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-04 23:29:52 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 23:29:57 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-04 23:30:58 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-04 23:59:55 ERROR][Server] 命令已在运行
