@@ -89,3 +89,15 @@
 [2023-06-05 13:36:51 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
 [2023-06-05 14:04:19 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
 [2023-06-05 17:59:55 ERROR][Server] 命令已在运行
+[2023-06-05 19:52:43 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-05 19:52:47 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-05 19:55:51 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-05 19:59:29 INFO][Server] Player connected: Tianyi5881, xuid: 2535464184085653
+[2023-06-05 19:59:34 INFO][Server] Player Spawned: Tianyi5881 xuid: 2535464184085653
+[2023-06-05 20:06:14 INFO][Server] Player disconnected: Tianyi5881, xuid: 2535464184085653
+[2023-06-05 20:17:13 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-05 20:17:17 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-05 20:17:59 INFO][Command] <RichLi4307> /allowlist add Wkiller4493
+[2023-06-05 20:18:23 INFO][Command] <RichLi4307> /whitelist add Wkiller4493
+[2023-06-05 20:18:48 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-05 23:59:55 ERROR][Server] 命令已在运行
