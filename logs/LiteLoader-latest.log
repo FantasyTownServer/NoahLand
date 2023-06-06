@@ -102,3 +102,19 @@
 [2023-06-05 20:18:48 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
 [2023-06-05 23:59:55 ERROR][Server] 命令已在运行
 [2023-06-06 05:59:57 ERROR][Server] 命令已在运行
+[2023-06-06 07:56:16 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 07:56:20 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-06 07:58:45 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 08:00:58 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 08:01:03 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-06 08:01:29 INFO][Command] <RichLi4307> /time set day 
+[2023-06-06 08:05:24 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 08:06:10 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 08:06:15 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-06 08:13:31 INFO][Command] <RichLi4307> /give @p trident
+[2023-06-06 08:14:00 INFO][Command] <RichLi4307> /give @p trident 9 250
+[2023-06-06 08:14:51 INFO][Command] <RichLi4307> /give @s structure_block
+[2023-06-06 08:15:39 INFO][Command] <RichLi4307> /give @p trident 9 250
+[2023-06-06 08:16:02 INFO][Command] <RichLi4307> /give @p trident 9 250
+[2023-06-06 08:17:35 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-06 11:59:55 ERROR][Server] 命令已在运行
