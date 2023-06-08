@@ -129,3 +129,19 @@
 [2023-06-08 17:54:05 INFO][Server] 已从文件重新读取允许列表。
 [2023-06-08 17:56:04 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
 [2023-06-08 17:59:55 ERROR][Server] 命令已在运行
+[2023-06-08 18:23:04 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-08 18:23:08 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-08 18:23:49 INFO][Command] <RichLi4307> /ftallowlist add xiaofen6666435
+[2023-06-08 18:23:49 INFO][AllowList] Added player "xiaofen6666435" to AllowList
+[2023-06-08 18:23:49 INFO][Server] 已从文件重新读取允许列表。
+[2023-06-08 18:26:25 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-08 20:57:06 INFO][Server] Player connected: manyforts500, xuid: 2535469818631724
+[2023-06-08 20:57:21 INFO][Server] Player Spawned: manyforts500 xuid: 2535469818631724
+[2023-06-08 21:03:35 INFO][Server] Player disconnected: manyforts500, xuid: 2535469818631724
+[2023-06-08 21:04:22 INFO][Server] Player connected: manyforts500, xuid: 2535469818631724
+[2023-06-08 21:04:27 INFO][Server] Player Spawned: manyforts500 xuid: 2535469818631724
+[2023-06-08 21:06:50 INFO][Server] Player disconnected: manyforts500, xuid: 2535469818631724
+[2023-06-08 21:07:33 INFO][Server] Player connected: manyforts500, xuid: 2535469818631724
+[2023-06-08 21:07:37 INFO][Server] Player Spawned: manyforts500 xuid: 2535469818631724
+[2023-06-08 21:17:44 INFO][Server] Player disconnected: manyforts500, xuid: 2535469818631724
+[2023-06-08 23:59:55 ERROR][Server] 命令已在运行
