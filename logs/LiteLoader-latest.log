@@ -68,3 +68,64 @@
 [2023-06-07 23:59:55 INFO][Server] 保存中……
 [2023-06-08 05:59:55 ERROR][Server] 命令已在运行
 [2023-06-08 11:59:55 ERROR][Server] 命令已在运行
+[2023-06-08 13:16:01 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-08 13:17:09 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-08 13:22:23 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-08 15:04:00 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 15:04:25 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 15:10:08 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:02:06 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:02:11 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 16:06:26 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:08:29 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:08:34 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 16:17:15 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:56:56 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:57:01 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 16:57:28 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 16:59:55 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:00:01 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 17:00:24 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:00:55 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:01:00 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 17:01:21 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:02:13 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-08 17:02:17 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-08 17:02:53 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:02:59 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 17:03:31 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:05:03 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:05:33 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 17:05:56 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:06:31 INFO][Server] Player connected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:06:37 INFO][Server] Player Spawned: zhanlang2022z xuid: 2535430136812366
+[2023-06-08 17:08:17 INFO][Chat] <zhanlang2022z> 你在我家吗？
+[2023-06-08 17:08:26 INFO][Chat] <TawnyBoot322184> 跑酷这里
+[2023-06-08 17:08:32 INFO][Chat] <TawnyBoot322184> 刚才去了
+[2023-06-08 17:08:36 INFO][Chat] <zhanlang2022z> 回来
+[2023-06-08 17:08:41 INFO][Chat] <zhanlang2022z> 带你去我家
+[2023-06-08 17:10:06 INFO][Chat] <zhanlang2022z> 直接
+[2023-06-08 17:10:10 INFO][Chat] <zhanlang2022z> 住
+[2023-06-08 17:10:14 INFO][Chat] <TawnyBoot322184> 行
+[2023-06-08 17:10:47 INFO][Chat] <zhanlang2022z> 玩家礼包
+[2023-06-08 17:10:55 INFO][Chat] <zhanlang2022z> 盒子你也拿走
+[2023-06-08 17:27:40 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-08 17:33:55 INFO][Server] Player disconnected: zhanlang2022z, xuid: 2535430136812366
+[2023-06-08 17:50:44 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-08 17:50:48 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-08 17:51:22 INFO][Command] <RichLi4307> /fp
+[2023-06-08 17:51:56 INFO][Command] <RichLi4307> /fpallowlist add "Wkiller 4493"
+[2023-06-08 17:52:08 INFO][Command] <RichLi4307> /ftallowlist add "Wkiller 4493"
+[2023-06-08 17:52:08 INFO][AllowList] Added player "Wkiller 4493" to AllowList
+[2023-06-08 17:52:08 INFO][Server] 已从文件重新读取允许列表。
+[2023-06-08 17:52:42 INFO][Command] <RichLi4307> /ftallowlist remove "Wkiller 4493"
+[2023-06-08 17:52:42 INFO][AllowList] Removed player "Wkiller 4493" from AllowList
+[2023-06-08 17:52:42 INFO][Server] 已从文件重新读取允许列表。
+[2023-06-08 17:52:56 INFO][Command] <RichLi4307> /ftallowlist add "W killer4493"
+[2023-06-08 17:52:56 INFO][AllowList] Added player "W killer4493" to AllowList
+[2023-06-08 17:52:56 INFO][Server] 已从文件重新读取允许列表。
+[2023-06-08 17:54:04 INFO][Command] <RichLi4307> /ftallowlist add "TawnyBoot322184"
+[2023-06-08 17:54:05 INFO][AllowList] Added player "TawnyBoot322184" to AllowList
+[2023-06-08 17:54:05 INFO][Server] 已从文件重新读取允许列表。
+[2023-06-08 17:56:04 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-08 17:59:55 ERROR][Server] 命令已在运行
