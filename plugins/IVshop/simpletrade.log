@@ -4404,3 +4404,6 @@
 [2023-06-07 20:47:28 INFO][Inventoryshop] Latest version.
 [2023-06-07 20:54:59 INFO][Inventoryshop] Latest version.
 [2023-06-07 21:05:51 INFO][Inventoryshop] Latest version.
+[2023-06-08 13:17:36 WARN][debuglogger] try to create offmoneyxuidaccount: a2535416966841950...
+[2023-06-08 13:17:36 WARN][debuglogger] try to add initscore(0) for offmoneyxuidaccount: a2535416966841950...
+[2023-06-09 13:04:57 INFO][Inventoryshop] Latest version.
