@@ -97,3 +97,12 @@
 [2023-06-10 12:22:29 INFO][Server] Player Spawned: wlingshuang xuid: 2535406233269757
 [2023-06-10 12:24:14 INFO][Server] Player disconnected: wlingshuang, xuid: 2535406233269757
 [2023-06-10 17:59:55 ERROR][Server] 命令已在运行
+[2023-06-10 23:25:57 INFO][Server] Player connected: RichLi4307, xuid: 2535431188612282
+[2023-06-10 23:26:01 INFO][Server] Player Spawned: RichLi4307 xuid: 2535431188612282
+[2023-06-10 23:27:26 INFO][Command] <RichLi4307> /time set sunset 
+[2023-06-10 23:36:02 INFO][Command] <RichLi4307> /scoreboard players set §b掉落物清除 gg1 0
+[2023-06-10 23:36:20 INFO][Command] <RichLi4307> /scoreboard players set §a掉落物清除 gg3 0
+[2023-06-10 23:36:33 INFO][Command] <RichLi4307> /scoreboard players reset §a掉落物清除 gg3
+[2023-06-10 23:36:51 INFO][Command] <RichLi4307> /scoreboard players set §a扫地倒计时 gg3 0
+[2023-06-10 23:37:05 INFO][Server] Player disconnected: RichLi4307, xuid: 2535431188612282
+[2023-06-10 23:59:55 ERROR][Server] 命令已在运行
