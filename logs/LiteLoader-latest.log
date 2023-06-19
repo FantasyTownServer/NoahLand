@@ -37,3 +37,71 @@
 [2023-06-14 20:37:04 INFO][LiteLoader] 我们的新论坛上线了啦! -> https://litebds.com
 [2023-06-14 20:37:04 INFO][LiteLoader] 帮助我们翻译&改进翻译 -> https://crowdin.com/project/liteloaderbds
 [2023-06-14 20:37:04 INFO][LiteLoader] Thanks to RhyMC(rhymc.com) for the support
+[2023-06-16 17:16:57 INFO][Server] Player added to allowlist
+[2023-06-16 17:19:09 ERROR][Server] 语法错误：意外的“list”：出现在“allowlist >>list<<”
+[2023-06-16 17:19:18 INFO][Server] ###* {"command":"allowlist","result":[{"name":"AImon301","xuid":"2535424276910358"},{"name":"RichLi4307","xuid":"2535431188612282"},{"name":"ABCD12335","xuid":"2535463779281280"},{"name":"CG22337","xuid":"2535458848931218"},{"name":"xiaofen6666435","xuid":"2535425847467085"},{"name":"yurentian788","xuid":"2535433396522495"},{"name":"manyforts500","xuid":"2535469818631724"},{"name":"NonTundra947144","xuid":"2535439767539353"},{"name":"LodgedSphinx459","xuid":"2535407922359972"},{"name":"RuiMei520","xuid":"2535415063495605"},{"name":"xize29105262"},{"name":"winner8877"},{"name":"NaturalPlans84"},{"name":"Naturalplains84"},{"name":"NaturalPlains84","xuid":"2535444718168130"},{"name":"Sapnap5230","xuid":"2535433257699721"},{"name":"UppedCap4024643"},{"name":"LivedMother234062"},{"name":"zhanlang2022z","xuid":"2535430136812366"},{"name":"quancifang11"},{"name":"Dog Dealer45"},{"name":"AwfulRacer73533"},{"name":"DevilishMist156","xuid":"2535470549404034"},{"name":"DairyPlane07324"},{"name":"wlingshuang","xuid":"2535406233269757"},{"name":"popo2333"},{"name":"ssww9967"},{"name":"tionio77","xuid":"2535457744452689"},{"name":"NextYak95684111","xuid":"2535469485980075"},{"name":"Natauki","xuid":"2535410106055965"},{"name":"SignedImp597440","xuid":"2535430870453295"},{"name":"eme114514"},{"name":"Lin Yufan233","xuid":"2535472563774295"},{"name":"DeluxeCape60934","xuid":"2535424647856388"},{"name":"CryptoWig966145","xuid":"2535445991172735"},{"name":"ldrfd","xuid":"2535453086736755"},{"name":"QWERTYUIOP6809","xuid":"2535437480063047"},{"name":"VWERTYUIOP6809","xuid":"2535456956320353"},{"name":"lankun1437","xuid":"2535451791872807"},{"name":"EarthBugle19306","xuid":"2535437405045464"},{"name":"Tianyi5881","xuid":"2535464184085653"},{"name":"yuhan2680"},{"name":"GainedCanvas992","xuid":"2535419708664755"},{"name":"HaoYveDangKong","xuid":"2535454969368316"},{"name":"wshh114"},{"name":"huanghuan1"},{"name":"akirasnowy","xuid":"2535422970999523"},{"name":"tao202342","xuid":"2535421775058899"},{"name":"StockSoda701724","xuid":"2535429732016222"},{"name":"zzhuichusho","xuid":"2535446165865505"},{"name":"Milehan","xuid":"2535454513795804"},{"name":"UltimoFawn56770","xuid":"2535412971216763"},{"name":"fangJO114514","xuid":"2535405866743431"},{"name":"Wkiller4493"},{"name":"TawnyBoot322184"},{"name":"zhanlang2022z"},{"name":"Liten PanJun"},{"name":"W killer4493"},{"name":"TawnyBoot322184"},{"name":"xiaofen6666435"},{"name":"Norman Lance"}]}
+[2023-06-16 17:19:18 INFO][Server]  *###
+[2023-06-16 18:54:15 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 18:55:28 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 18:55:55 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 18:57:38 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 18:57:43 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 18:58:36 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 18:59:30 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 18:59:34 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:00:06 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:00:38 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:00:42 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:01:32 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:02:32 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:02:37 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:03:24 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:04:08 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:04:13 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:04:53 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:05:32 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:05:37 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:06:12 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:07:06 INFO][Server] Player connected: Norman Lance, xuid: 2535469817366541
+[2023-06-16 19:07:12 INFO][Server] Player Spawned: Norman Lance xuid: 2535469817366541
+[2023-06-16 19:08:10 INFO][Server] Player disconnected: Norman Lance, xuid: 2535469817366541
+[2023-06-17 19:03:36 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:03:41 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-17 19:09:44 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:10:44 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:10:48 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-17 19:29:21 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:29:58 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:30:03 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-17 19:30:24 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:57:06 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-17 19:58:11 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-17 19:58:44 INFO][Server] Player connected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 19:58:49 INFO][Server] Player Spawned: TawnyBoot322184 xuid: 2535416966841950
+[2023-06-17 20:00:11 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
+[2023-06-17 20:00:39 INFO][Server] Player disconnected: TawnyBoot322184, xuid: 2535416966841950
+[2023-06-17 20:01:03 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-17 20:01:08 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-17 21:18:53 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
+[2023-06-17 21:24:09 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-17 21:24:14 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-17 21:28:26 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
+[2023-06-17 21:32:15 INFO][Server] Player connected: EarthBugle19306, xuid: 2535437405045464
+[2023-06-17 21:32:40 INFO][Server] Player Spawned: EarthBugle19306 xuid: 2535437405045464
+[2023-06-17 21:35:14 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-17 21:35:21 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-17 21:35:55 INFO][Chat] <EarthBugle19306> 在哪儿
+[2023-06-17 21:36:00 INFO][Chat] <lankun1437> -200    -113
+[2023-06-17 21:38:24 INFO][Chat] <EarthBugle19306> 这么近…
+[2023-06-17 21:38:35 INFO][Chat] <lankun1437> 不知道门在哪？
+[2023-06-17 21:42:38 INFO][Chat] <lankun1437> 谢谢
+[2023-06-17 21:42:54 INFO][Chat] <EarthBugle19306> 很疑惑
+[2023-06-17 21:43:04 INFO][Chat] <EarthBugle19306> 为什么你会跑那么远
+[2023-06-17 21:43:05 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
+[2023-06-17 21:48:33 INFO][Server] Player disconnected: EarthBugle19306, xuid: 2535437405045464
+[2023-06-18 07:39:30 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-18 07:39:36 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-18 08:52:18 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
+[2023-06-18 19:11:55 INFO][Server] Player connected: lankun1437, xuid: 2535451791872807
+[2023-06-18 19:12:00 INFO][Server] Player Spawned: lankun1437 xuid: 2535451791872807
+[2023-06-18 19:26:08 INFO][Server] Player disconnected: lankun1437, xuid: 2535451791872807
