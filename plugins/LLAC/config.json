@@ -16,7 +16,8 @@
     "FixOriginalBugSwitch": {
         "ChestCrash": true,
         "HopperReplicate": true,
-        "IllegalStack": true
+        "IllegalStack": true,
+        "OverLevelTrade": true
     },
     "KillAura": {
         "AttackIntervalMs": 75,
@@ -39,7 +40,6 @@
         "CheckEnchant": true,
         "DisableCommandBlockMinecart": true,
         "DisableNPC": false,
-        "DisablePlayerSkin": false,
         "InvalidName": true,
         "MovementDetection": true
     }

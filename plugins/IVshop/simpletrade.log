@@ -4417,3 +4417,7 @@
 [2023-06-21 17:27:30 INFO][Inventoryshop] New version available: 1.2.0
 -->https://github.com/kkj9333/IVshop-core/releases/download/1.2.0.1/ivshop_1201_20230614_21_03.zip
 [2023-06-21 17:27:30 INFO][Inventoryshop] Title:测试适配1.20.0.01
+[2023-06-21 19:45:42 INFO][Inventoryshop] Latest version.
+[2023-06-21 19:51:39 INFO][Inventoryshop] Latest version.
+[2023-06-21 20:34:08 WARN][debuglogger] try to create offmoneyxuidaccount: a2535431188612282...
+[2023-06-21 20:34:08 WARN][debuglogger] try to add initscore(0) for offmoneyxuidaccount: a2535431188612282...

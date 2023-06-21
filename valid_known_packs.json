@@ -126,6 +126,13 @@
 	
 	{
 		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_next_major_update",
+		"uuid" : "a8a0fd53-f2a4-4a36-8f00-297b437dbd52",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
 		"path" : "behavior_packs/vanilla_1.17.20",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.17.20"
@@ -140,9 +147,9 @@
 	
 	{
 		"file_system" : "RawPath",
-		"path" : "behavior_packs/experimental_next_major_update",
-		"uuid" : "a8a0fd53-f2a4-4a36-8f00-297b437dbd52",
-		"version" : "0.0.1"
+		"path" : "behavior_packs/vanilla_1.20.0",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.20.0"
 	},
 	
 	{
@@ -229,6 +236,13 @@
 		"path" : "behavior_packs/vanilla_1.19.80",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.19.80"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_cameras",
+		"uuid" : "05112080-727b-4ed4-98d4-b099fc75f2be",
+		"version" : "0.0.1"
 	},
 	
 	{
