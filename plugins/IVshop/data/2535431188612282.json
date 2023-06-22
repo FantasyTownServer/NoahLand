@@ -78,6 +78,24 @@
                 "shopitemleftnum": 1,
                 "shopitemname": "无敌",
                 "shopitemtag": "bigsword"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"pa:ll\",\"WasPickedUp\":0b}",
+                "price": 15,
+                "shopitemdescribe": "高速高伤害武器",
+                "shopitemleftnum": 64,
+                "shopitemname": "紫铜速射炮",
+                "shopitemtag": "ll"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:nether_star\",\"WasPickedUp\":0b}",
+                "price": 10000,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 3,
+                "shopitemname": "下界之星",
+                "shopitemtag": "nether_star"
             }
         ],
         "ownerlang": "zh_CN",
