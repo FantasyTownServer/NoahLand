@@ -462,3 +462,4 @@
 [HttpGet]<LxlBlackBe> https://api.blackbe.work/openapi/v3/check/?name=lankun1437&xuid=2535451791872807
 [HttpGet]<LxlBlackBe> https://api.blackbe.work/openapi/v3/check/?name=RichLi4307&xuid=2535431188612282
 [HttpGet]<LxlBlackBe> https://api.blackbe.work/openapi/v3/check/?name=RichLi4307&xuid=2535431188612282
+[HttpGet]<LxlBlackBe> https://api.blackbe.work/openapi/v3/check/?name=RichLi4307&xuid=2535431188612282
