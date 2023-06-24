@@ -24,6 +24,51 @@
                 "shopitemleftnum": 0,
                 "shopitemname": "甜莓 1 0.6 1.6秒",
                 "shopitemtag": "sweet_berries"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:leather_chestplate\",\"WasPickedUp\":0b,\"tag\":{\"ench\":[{\"id\":5s,\"lvl\":2s}]}}",
+                "price": 0,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 1,
+                "shopitemname": "皮革胸甲",
+                "shopitemtag": "leather_chestplate"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":5s,\"Name\":\"minecraft:suspicious_stew\",\"WasPickedUp\":0b}",
+                "price": 20,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 1,
+                "shopitemname": "迷之炖菜",
+                "shopitemtag": "suspicious_stew"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":5s,\"Name\":\"minecraft:filled_map\",\"WasPickedUp\":0b,\"tag\":{\"map_display_players\":1b,\"map_uuid\":-18820546670287l}}",
+                "price": 0,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 1,
+                "shopitemname": "藏宝图",
+                "shopitemtag": "filled_map"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":5s,\"Name\":\"minecraft:filled_map\",\"WasPickedUp\":0b,\"tag\":{\"map_display_players\":1b,\"map_uuid\":-18820546670789l}}",
+                "price": 0,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 1,
+                "shopitemname": "藏宝图",
+                "shopitemtag": "filled_map"
+            },
+            {
+                "allowbesearched": true,
+                "itemnbt": "{\"Count\":1b,\"Damage\":0s,\"Name\":\"minecraft:heart_of_the_sea\",\"WasPickedUp\":0b}",
+                "price": 0,
+                "shopitemdescribe": "",
+                "shopitemleftnum": 1,
+                "shopitemname": "海洋之心",
+                "shopitemtag": "heart_of_the_sea"
             }
         ],
         "ownerlang": "zh_CN",
